@@ -1,0 +1,513 @@
+Rank,Name,Team,Position,Week,Opponent,TacklesForLoss,Sacks,QuarterbackHits,Interceptions,FumblesRecovered,Safeties,DefensiveTouchdowns,SpecialTeamsTouchdowns,PointsAllowedByDefenseSpecialTeams,FantasyPointsPerGameFanDuel,FantasyPointsFanDuel
+1,Seattle Seahawks,SEA,DST,14,ARI,4,3,6,4,4,0,2,0,0,41,41
+2,Tennessee Titans,TEN,DST,17,JAX,3,7,13,3,0,0,2,2,20,38,38
+3,Denver Broncos,DEN,DST,6,LAC,4,4,4,4,2,0,2,0,18,29,29
+3,San Francisco 49ers,SF,DST,4,NYJ,3,3,2,1,3,0,1,0,0,29,29
+5,Chicago Bears,CHI,DST,5,JAX,5,3,4,2,1,0,2,0,3,28,28
+6,New England Patriots,NE,DST,11,IND,2,1,6,3,1,0,2,1,24,27,27
+6,Chicago Bears,CHI,DST,9,TEN,2,2,3,1,4,0,1,1,18,27,27
+8,Denver Broncos,DEN,DST,10,CAR,10,7,7,2,0,1,1,1,14,26,26
+8,Chicago Bears,CHI,DST,16,ARI,7,4,3,2,1,0,2,0,13,26,26
+8,Arizona Cardinals,ARI,DST,15,DET,7,2,8,3,1,0,2,0,10,26,26
+11,Los Angeles Chargers,LAC,DST,9,KC,4,1,0,1,3,0,2,0,13,25,25
+11,New England Patriots,NE,DST,12,NYJ,5,2,3,1,4,0,2,0,17,25,25
+11,Los Angeles Rams,LAR,DST,16,TB,5,5,9,4,1,0,1,0,13,25,25
+14,Chicago Bears,CHI,DST,4,DAL,6,1,2,5,0,0,2,0,18,24,24
+14,Dallas Cowboys,DAL,DST,10,PHI,5,2,5,1,1,0,2,1,23,24,24
+14,Arizona Cardinals,ARI,DST,3,PHI,5,5,13,0,3,0,1,0,6,24,24
+17,Houston Texans,HOU,DST,4,TEN,4,4,5,2,1,0,2,0,14,23,23
+17,Minnesota Vikings,MIN,DST,4,DET,8,5,9,0,1,0,0,2,13,23,23
+17,Tennessee Titans,TEN,DST,10,MIA,4,2,2,3,1,0,1,0,3,23,23
+17,Los Angeles Rams,LAR,DST,12,ARI,3,2,2,4,0,0,2,0,17,23,23
+17,Chicago Bears,CHI,DST,3,LAR,8,6,10,2,0,0,1,0,6,23,23
+17,Cincinnati Bengals,CIN,DST,15,PHI,6,1,2,1,4,0,1,0,13,23,23
+23,Houston Texans,HOU,DST,13,TEN,7,6,8,3,3,0,0,0,10,22,22
+23,Los Angeles Chargers,LAC,DST,16,NYJ,9,11,16,1,1,0,0,1,17,22,22
+23,New York Giants,NYG,DST,8,DAL,4,4,8,4,2,0,1,0,24,22,22
+23,New Orleans Saints,NO,DST,15,TB,3,2,10,4,1,0,0,0,0,22,22
+23,Miami Dolphins,MIA,DST,8,NYJ,4,4,7,1,1,0,0,1,9,22,22
+28,Los Angeles Chargers,LAC,DST,4,KC,4,2,6,3,3,0,1,0,20,21,21
+28,New Orleans Saints,NO,DST,9,PHI,8,7,12,1,1,0,1,0,13,21,21
+28,Cleveland Browns,CLE,DST,12,PIT,5,1,1,3,5,0,0,0,8,21,21
+28,San Francisco 49ers,SF,DST,12,NO,3,5,7,2,0,0,2,0,21,21,21
+28,New England Patriots,NE,DST,17,MIA,8,7,8,1,1,0,0,0,0,21,21
+33,Houston Texans,HOU,DST,7,BAL,6,4,8,2,0,1,1,0,13,20,20
+33,Green Bay Packers,GB,DST,11,DET,5,5,7,2,2,0,1,0,20,20,20
+33,Indianapolis Colts,IND,DST,10,JAX,4,4,7,2,1,0,1,0,10,20,20
+33,Cincinnati Bengals,CIN,DST,16,PIT,8,4,7,2,1,0,1,0,10,20,20
+33,Tampa Bay Buccaneers,TB,DST,10,LAC,8,2,5,2,0,0,1,1,24,20,20
+38,Green Bay Packers,GB,DST,2,CHI,9,7,12,4,0,0,0,0,10,19,19
+38,New York Giants,NYG,DST,6,SF,8,6,9,3,0,0,0,0,3,19,19
+38,Baltimore Ravens,BAL,DST,11,PIT,5,3,5,1,2,0,0,1,10,19,19
+38,Cleveland Browns,CLE,DST,1,PHI,6,2,11,4,1,0,1,0,17,19,19
+38,New York Jets,NYJ,DST,1,BUF,3,0,6,3,1,0,1,1,28,19,19
+43,Buffalo Bills,BUF,DST,2,KC,6,5,5,1,2,0,0,1,17,18,18
+43,Los Angeles Rams,LAR,DST,5,ARI,6,9,12,0,1,0,0,0,3,18,18
+43,Minnesota Vikings,MIN,DST,7,ARI,6,7,9,1,1,0,1,0,14,18,18
+43,Baltimore Ravens,BAL,DST,1,CIN,2,4,6,1,1,0,1,0,13,18,18
+43,Tennessee Titans,TEN,DST,15,NYJ,6,4,6,4,1,0,0,0,10,18,18
+48,Carolina Panthers,CAR,DST,5,SEA,6,2,2,2,1,1,1,0,16,17,17
+48,Tampa Bay Buccaneers,TB,DST,6,KC,5,0,2,2,0,0,1,0,4,17,17
+48,Washington Redskins,WAS,DST,11,PHI,11,4,7,2,1,0,0,0,6,17,17
+48,Los Angeles Rams,LAR,DST,13,SF,6,3,5,0,1,1,1,0,13,17,17
+48,Indianapolis Colts,IND,DST,16,KC,2,1,5,2,1,0,1,0,13,17,17
+48,Cleveland Browns,CLE,DST,14,KC,6,5,9,1,0,0,0,1,7,17,17
+48,Tennessee Titans,TEN,DST,3,DET,4,1,3,0,1,0,1,2,41,17,17
+48,Atlanta Falcons,ATL,DST,15,NYG,2,1,2,2,1,0,0,0,0,17,17
+48,Seattle Seahawks,SEA,DST,2,DAL,2,1,6,1,1,0,0,1,7,17,17
+48,Seattle Seahawks,SEA,DST,16,SF,2,1,4,1,1,0,0,1,13,17,17
+48,Buffalo Bills,BUF,DST,17,NYJ,5,1,3,1,1,0,1,0,9,17,17
+59,New England Patriots,NE,DST,7,NYJ,4,4,4,1,1,1,0,1,26,16,16
+59,Atlanta Falcons,ATL,DST,6,OAK,7,3,4,1,2,0,1,0,20,16,16
+59,Cleveland Browns,CLE,DST,6,CIN,1,2,1,3,1,0,1,0,24,16,16
+59,New York Jets,NYJ,DST,6,IND,5,4,5,2,2,0,0,0,9,16,16
+59,Washington Redskins,WAS,DST,6,MIN,5,4,9,2,1,0,1,0,26,16,16
+59,Buffalo Bills,BUF,DST,11,MIA,7,3,5,2,1,0,0,1,14,16,16
+59,San Francisco 49ers,SF,DST,11,CHI,7,6,11,2,0,1,0,0,7,16,16
+59,New England Patriots,NE,DST,1,TEN,5,2,3,1,1,0,1,0,13,16,16
+59,Baltimore Ravens,BAL,DST,10,OAK,6,3,4,1,2,0,0,1,20,16,16
+59,Cincinnati Bengals,CIN,DST,10,NYG,4,4,7,2,2,0,0,0,13,16,16
+59,Seattle Seahawks,SEA,DST,10,NYJ,2,3,4,1,2,0,0,0,1,16,16
+59,Pittsburgh Steelers,PIT,DST,16,CIN,6,6,8,2,1,0,0,0,7,16,16
+59,Atlanta Falcons,ATL,DST,3,LAC,1,1,3,2,2,0,0,0,3,16,16
+59,New York Giants,NYG,DST,3,CAR,1,2,3,3,2,0,0,0,7,16,16
+59,Pittsburgh Steelers,PIT,DST,17,CLE,4,4,5,1,3,0,0,0,10,16,16
+59,Oakland Raiders,OAK,DST,15,KC,6,4,8,1,0,0,0,0,0,16,16
+59,Seattle Seahawks,SEA,DST,15,BUF,3,3,4,2,1,0,1,0,17,16,16
+59,Houston Texans,HOU,DST,15,IND,9,5,10,0,1,0,0,1,17,16,16
+77,Baltimore Ravens,BAL,DST,5,KC,9,0,2,2,2,0,0,0,6,15,15
+77,Seattle Seahawks,SEA,DST,5,CAR,3,4,5,0,2,0,0,0,4,15,15
+77,Chicago Bears,CHI,DST,7,DET,4,3,6,1,3,0,0,0,7,15,15
+77,Arizona Cardinals,ARI,DST,13,NYJ,3,3,5,3,1,0,0,0,7,15,15
+77,Atlanta Falcons,ATL,DST,13,NO,4,1,6,5,0,0,0,0,13,15,15
+77,Houston Texans,HOU,DST,10,CHI,4,0,3,2,2,0,0,0,6,15,15
+77,Green Bay Packers,GB,DST,16,TEN,10,7,12,2,0,0,0,0,7,15,15
+77,Minnesota Vikings,MIN,DST,16,HOU,7,4,8,0,2,0,0,0,6,15,15
+77,New York Giants,NYG,DST,14,NO,2,1,1,2,2,0,0,1,21,15,15
+77,Indianapolis Colts,IND,DST,17,HOU,6,4,5,2,0,0,0,1,16,15,15
+77,Minnesota Vikings,MIN,DST,3,SF,2,3,3,1,2,0,0,0,13,15,15
+88,Cincinnati Bengals,CIN,DST,4,JAX,8,6,7,1,1,0,0,0,10,14,14
+88,New England Patriots,NE,DST,4,BUF,4,3,4,4,2,0,0,0,28,14,14
+88,New York Giants,NYG,DST,9,PIT,6,4,4,1,1,0,1,0,24,14,14
+88,Arizona Cardinals,ARI,DST,11,ATL,3,1,5,5,1,0,0,0,17,14,14
+88,New Orleans Saints,NO,DST,11,OAK,5,3,4,2,0,0,1,0,17,14,14
+88,Los Angeles Chargers,LAC,DST,11,DEN,6,3,3,1,1,1,1,0,30,14,14
+88,Chicago Bears,CHI,DST,1,IND,4,3,5,3,2,0,0,0,15,14,14
+88,Denver Broncos,DEN,DST,1,PIT,9,5,10,1,0,0,1,0,19,14,14
+88,Houston Texans,HOU,DST,1,MIA,4,2,3,3,1,0,0,0,10,14,14
+88,Philadelphia Eagles,PHI,DST,1,CLE,5,2,4,4,0,0,0,0,10,14,14
+88,Los Angeles Chargers,LAC,DST,13,CIN,3,1,3,2,1,0,1,0,20,14,14
+88,Indianapolis Colts,IND,DST,12,BUF,6,2,5,1,0,0,0,1,13,14,14
+88,Miami Dolphins,MIA,DST,16,BUF,3,2,4,1,3,0,0,0,10,14,14
+88,Tennessee Titans,TEN,DST,14,IND,10,4,9,2,0,0,1,0,21,14,14
+88,Carolina Panthers,CAR,DST,15,LAC,5,6,3,0,2,0,0,0,7,14,14
+88,Denver Broncos,DEN,DST,15,BAL,5,3,9,1,1,0,1,0,17,14,14
+88,Minnesota Vikings,MIN,DST,15,LAR,5,4,8,1,1,0,1,0,22,14,14
+88,Buffalo Bills,BUF,DST,6,ARI,6,5,7,2,0,1,0,0,16,14,14
+88,Chicago Bears,CHI,DST,12,MIN,1,2,7,1,2,0,0,0,10,14,14
+107,Washington Redskins,WAS,DST,2,LAR,5,2,3,1,2,0,1,0,31,13,13
+107,Miami Dolphins,MIA,DST,5,CIN,1,3,7,2,1,0,0,0,13,13,13
+107,Denver Broncos,DEN,DST,9,CIN,7,5,6,1,0,0,0,1,23,13,13
+107,Carolina Panthers,CAR,DST,11,TB,0,1,5,2,1,0,1,0,27,13,13
+107,Cincinnati Bengals,CIN,DST,11,KC,4,4,7,0,1,0,0,0,6,13,13
+107,Los Angeles Rams,LAR,DST,1,DET,4,1,3,3,0,0,1,0,27,13,13
+107,New York Jets,NYJ,DST,10,SEA,5,4,7,0,2,0,1,0,28,13,13
+107,New York Giants,NYG,DST,12,GB,4,5,7,1,1,0,0,0,10,13,13
+107,Pittsburgh Steelers,PIT,DST,12,CLE,8,4,5,1,0,0,1,0,20,13,13
+107,Minnesota Vikings,MIN,DST,14,CHI,3,2,4,2,0,0,1,0,14,13,13
+107,Los Angeles Rams,LAR,DST,14,BUF,8,5,11,1,1,0,0,0,12,13,13
+107,Carolina Panthers,CAR,DST,8,CHI,6,6,4,1,2,0,0,0,17,13,13
+107,San Francisco 49ers,SF,DST,8,ARI,9,4,6,1,0,0,0,0,3,13,13
+107,Cincinnati Bengals,CIN,DST,17,BAL,6,4,5,1,0,0,1,0,17,13,13
+107,Denver Broncos,DEN,DST,11,LAC,7,4,4,2,1,0,0,0,15,13,13
+107,Tampa Bay Buccaneers,TB,DST,1,CAR,9,3,3,2,0,0,0,0,10,13,13
+107,Green Bay Packers,GB,DST,8,JAX,4,2,3,0,1,0,0,1,15,13,13
+124,Arizona Cardinals,ARI,DST,4,MIA,7,4,9,2,2,0,0,0,21,12,12
+124,Baltimore Ravens,BAL,DST,4,CLE,4,1,8,1,1,0,1,0,16,12,12
+124,Miami Dolphins,MIA,DST,4,ARI,9,8,10,2,0,0,0,0,24,12,12
+124,Los Angeles Rams,LAR,DST,4,SEA,5,2,4,3,0,0,0,0,13,12,12
+124,Kansas City Chiefs,KC,DST,5,BAL,4,4,6,1,1,0,0,0,9,12,12
+124,San Francisco 49ers,SF,DST,5,BUF,3,1,3,1,1,0,0,0,3,12,12
+124,Los Angeles Chargers,LAC,DST,6,DEN,3,0,1,1,2,0,1,0,23,12,12
+124,Atlanta Falcons,ATL,DST,11,ARI,8,3,5,0,1,0,1,0,19,12,12
+124,Cincinnati Bengals,CIN,DST,13,LAC,4,4,3,1,1,0,0,0,7,12,12
+124,Cincinnati Bengals,CIN,DST,12,OAK,7,4,8,1,1,0,0,0,10,12,12
+124,Denver Broncos,DEN,DST,16,CLE,5,6,9,0,1,0,0,0,12,12,12
+124,Green Bay Packers,GB,DST,14,DET,0,1,2,1,1,0,1,0,20,12,12
+124,Indianapolis Colts,IND,DST,14,TEN,3,1,4,2,0,0,1,0,17,12,12
+124,Los Angeles Chargers,LAC,DST,14,PIT,2,2,4,1,1,0,1,0,24,12,12
+124,Seattle Seahawks,SEA,DST,3,GB,10,8,12,0,0,0,0,0,12,12,12
+124,Chicago Bears,CHI,DST,8,CAR,7,2,2,2,0,0,1,0,22,12,12
+124,Oakland Raiders,OAK,DST,8,KC,5,3,11,2,2,0,0,0,16,12,12
+124,Kansas City Chiefs,KC,DST,6,TB,1,1,0,1,1,0,1,0,32,12,12
+124,Arizona Cardinals,ARI,DST,16,CHI,3,1,1,0,1,0,0,1,16,12,12
+143,Atlanta Falcons,ATL,DST,2,DEN,6,3,6,3,1,0,0,0,21,11,11
+143,Carolina Panthers,CAR,DST,2,NO,0,1,5,2,0,0,1,0,27,11,11
+143,Atlanta Falcons,ATL,DST,5,WAS,4,3,8,2,0,0,0,0,11,11,11
+143,Washington Redskins,WAS,DST,5,ATL,3,1,3,1,1,0,1,0,24,11,11
+143,New York Giants,NYG,DST,7,WAS,4,3,5,1,3,0,0,0,23,11,11
+143,San Francisco 49ers,SF,DST,7,SEA,3,2,3,1,0,0,0,0,6,11,11
+143,New York Jets,NYJ,DST,11,LAR,4,1,2,1,2,0,0,0,13,11,11
+143,New York Jets,NYJ,DST,13,ARI,4,2,4,1,0,0,0,0,6,11,11
+143,New York Jets,NYJ,DST,14,JAX,4,3,10,2,0,0,0,0,10,11,11
+143,New York Jets,NYJ,DST,3,MIA,1,0,2,1,1,0,1,0,20,11,11
+143,Tampa Bay Buccaneers,TB,DST,3,DAL,11,4,4,1,2,0,0,0,16,11,11
+143,Denver Broncos,DEN,DST,17,KC,9,4,6,0,0,0,0,0,3,11,11
+143,Detroit Lions,DET,DST,7,CHI,6,5,9,0,0,0,0,0,13,11,11
+156,Baltimore Ravens,BAL,DST,2,PHI,7,2,4,2,2,0,0,0,24,10,10
+156,Cincinnati Bengals,CIN,DST,2,CLE,5,2,5,0,1,0,0,1,27,10,10
+156,Denver Broncos,DEN,DST,4,OAK,4,3,8,0,0,0,0,0,6,10,10
+156,Minnesota Vikings,MIN,DST,5,TEN,5,2,3,1,1,0,0,0,7,10,10
+156,Houston Texans,HOU,DST,9,BUF,6,4,10,0,1,0,0,0,9,10,10
+156,Miami Dolphins,MIA,DST,11,BUF,7,3,4,0,0,0,0,1,19,10,10
+156,Baltimore Ravens,BAL,DST,12,LAC,7,6,6,0,0,0,0,0,13,10,10
+156,Carolina Panthers,CAR,DST,16,OAK,6,1,3,1,0,0,0,0,6,10,10
+156,Washington Redskins,WAS,DST,16,PHI,7,5,6,1,1,0,0,0,20,10,10
+156,Dallas Cowboys,DAL,DST,3,TB,3,2,5,1,1,0,0,0,10,10,10
+156,Cleveland Browns,CLE,DST,8,LAC,4,1,3,0,1,0,0,0,6,10,10
+156,New England Patriots,NE,DST,8,LAR,5,2,3,2,0,0,0,0,7,10,10
+156,Tampa Bay Buccaneers,TB,DST,8,MIN,7,3,4,1,2,0,0,0,17,10,10
+156,San Francisco 49ers,SF,DST,17,ARI,6,2,4,1,1,0,0,0,13,10,10
+156,Green Bay Packers,GB,DST,15,CHI,6,4,4,1,0,0,0,0,13,10,10
+156,San Francisco 49ers,SF,DST,15,NE,5,3,7,2,2,0,0,0,34,10,10
+156,Arizona Cardinals,ARI,DST,1,SEA,3,3,8,1,1,0,0,0,16,10,10
+156,Jacksonville Jaguars,JAX,DST,17,TEN,7,2,4,0,0,0,0,1,26,10,10
+174,Chicago Bears,CHI,DST,2,GB,6,5,6,1,1,0,0,0,23,9,9
+174,Houston Texans,HOU,DST,2,JAX,5,3,7,0,1,0,0,0,7,9,9
+174,New Orleans Saints,NO,DST,5,LAC,6,5,6,1,1,0,0,0,24,9,9
+174,Detroit Lions,DET,DST,6,PHI,10,3,12,2,1,0,0,0,23,9,9
+174,Green Bay Packers,GB,DST,6,HOU,7,3,6,3,0,0,0,0,24,9,9
+174,Seattle Seahawks,SEA,DST,9,MIN,4,4,7,1,1,0,0,0,20,9,9
+174,Cleveland Browns,CLE,DST,11,DAL,6,7,10,0,1,0,0,0,23,9,9
+174,Atlanta Falcons,ATL,DST,1,KC,7,3,4,2,1,0,0,0,24,9,9
+174,Green Bay Packers,GB,DST,1,SF,3,4,6,0,0,0,0,1,30,9,9
+174,Denver Broncos,DEN,DST,13,TB,1,1,3,1,0,0,1,0,23,9,9
+174,Chicago Bears,CHI,DST,10,HOU,8,1,3,2,0,0,0,0,13,9,9
+174,Buffalo Bills,BUF,DST,12,IND,6,4,7,1,1,0,0,0,20,9,9
+174,Seattle Seahawks,SEA,DST,12,MIA,4,1,1,1,0,0,0,1,24,9,9
+174,Tennessee Titans,TEN,DST,12,JAX,6,7,13,1,0,0,0,0,24,9,9
+174,Denver Broncos,DEN,DST,14,OAK,2,1,0,1,1,0,0,0,13,9,9
+174,Buffalo Bills,BUF,DST,3,CLE,8,4,5,2,0,0,0,0,14,9,9
+174,New Orleans Saints,NO,DST,3,KC,6,3,4,1,2,0,0,0,25,9,9
+174,Chicago Bears,CHI,DST,17,DET,3,1,2,1,3,0,0,0,24,9,9
+174,Washington Redskins,WAS,DST,17,DAL,3,2,5,3,0,0,0,0,18,9,9
+174,Miami Dolphins,MIA,DST,15,JAX,3,2,5,0,0,0,0,0,3,9,9
+174,Philadelphia Eagles,PHI,DST,15,CIN,6,6,6,0,2,0,0,0,28,9,9
+174,Arizona Cardinals,ARI,DST,2,NE,7,4,6,1,0,0,0,0,18,9,9
+196,Pittsburgh Steelers,PIT,DST,2,NYJ,4,2,3,0,1,0,0,0,10,8,8
+196,Tampa Bay Buccaneers,TB,DST,2,NYG,4,0,2,3,0,0,1,0,41,8,8
+196,Carolina Panthers,CAR,DST,4,ATL,7,7,12,1,0,0,0,0,30,8,8
+196,Houston Texans,HOU,DST,5,NYJ,2,3,5,2,0,0,0,0,17,8,8
+196,New England Patriots,NE,DST,5,DEN,2,2,5,0,3,0,0,0,21,8,8
+196,New York Jets,NYJ,DST,5,HOU,3,0,2,1,0,0,0,1,23,8,8
+196,Pittsburgh Steelers,PIT,DST,5,PHI,6,3,8,0,2,0,0,0,14,8,8
+196,Arizona Cardinals,ARI,DST,7,MIN,2,3,4,2,0,0,0,0,15,8,8
+196,Jacksonville Jaguars,JAX,DST,7,OAK,3,2,6,1,2,0,0,0,26,8,8
+196,Seattle Seahawks,SEA,DST,7,SF,4,2,3,1,0,0,0,0,13,8,8
+196,Baltimore Ravens,BAL,DST,6,DAL,4,1,3,1,0,0,0,1,29,8,8
+196,Oakland Raiders,OAK,DST,6,ATL,5,1,9,3,0,0,0,0,17,8,8
+196,Carolina Panthers,CAR,DST,9,WAS,4,4,9,0,0,0,0,0,13,8,8
+196,Baltimore Ravens,BAL,DST,13,PIT,8,2,6,2,1,0,0,0,23,8,8
+196,Buffalo Bills,BUF,DST,13,JAX,5,3,6,1,1,0,0,0,18,8,8
+196,Dallas Cowboys,DAL,DST,13,PHI,5,1,3,0,1,0,1,0,33,8,8
+196,Pittsburgh Steelers,PIT,DST,13,BAL,4,3,3,1,1,0,0,0,20,8,8
+196,New England Patriots,NE,DST,10,BUF,2,3,4,1,2,0,0,0,31,8,8
+196,Pittsburgh Steelers,PIT,DST,10,KC,3,2,6,1,0,0,0,0,13,8,8
+196,Denver Broncos,DEN,DST,12,KC,3,2,6,1,0,0,0,0,9,8,8
+196,New England Patriots,NE,DST,16,JAX,4,1,3,3,0,0,0,0,16,8,8
+196,Dallas Cowboys,DAL,DST,14,CIN,3,5,4,1,0,0,0,0,19,8,8
+196,San Francisco 49ers,SF,DST,14,MIA,3,2,4,0,1,0,0,0,13,8,8
+196,Tampa Bay Buccaneers,TB,DST,14,PHI,10,6,13,0,1,0,0,0,23,8,8
+196,Kansas City Chiefs,KC,DST,3,NO,5,4,8,1,0,1,0,0,24,8,8
+196,Washington Redskins,WAS,DST,3,CIN,5,2,6,1,1,0,1,0,38,8,8
+196,Los Angeles Chargers,LAC,DST,17,OAK,5,0,1,1,0,0,0,1,21,8,8
+196,Dallas Cowboys,DAL,DST,15,PIT,3,4,8,1,1,0,0,0,24,8,8
+196,Los Angeles Chargers,LAC,DST,1,OAK,8,3,6,0,1,0,0,0,14,8,8
+196,Oakland Raiders,OAK,DST,13,CLE,3,1,10,2,0,0,0,0,20,8,8
+226,Cleveland Browns,CLE,DST,2,CIN,4,6,6,1,0,0,0,0,34,7,7
+226,Indianapolis Colts,IND,DST,2,MIN,5,4,5,0,1,0,0,0,20,7,7
+226,New England Patriots,NE,DST,2,ARI,4,2,6,0,2,0,0,0,20,7,7
+226,Cleveland Browns,CLE,DST,4,BAL,6,4,6,1,0,0,0,0,17,7,7
+226,Cincinnati Bengals,CIN,DST,5,MIA,6,2,6,0,2,0,0,0,17,7,7
+226,Indianapolis Colts,IND,DST,5,GB,7,5,6,1,0,0,0,0,27,7,7
+226,Cincinnati Bengals,CIN,DST,7,PIT,5,3,4,1,1,0,0,0,24,7,7
+226,Dallas Cowboys,DAL,DST,7,CAR,4,2,5,1,1,0,0,0,14,7,7
+226,Arizona Cardinals,ARI,DST,6,BUF,6,2,2,1,1,0,0,0,17,7,7
+226,Green Bay Packers,GB,DST,9,ARI,5,2,7,1,1,0,0,0,17,7,7
+226,Tampa Bay Buccaneers,TB,DST,9,OAK,6,2,2,3,0,0,0,0,32,7,7
+226,Miami Dolphins,MIA,DST,1,HOU,8,2,5,0,0,0,0,1,30,7,7
+226,Philadelphia Eagles,PHI,DST,13,DAL,7,2,6,0,0,0,0,1,32,7,7
+226,Carolina Panthers,CAR,DST,12,PHI,4,1,1,0,3,0,0,0,22,7,7
+226,Washington Redskins,WAS,DST,12,DAL,2,2,10,2,1,0,0,0,31,7,7
+226,Atlanta Falcons,ATL,DST,16,DET,0,0,6,1,2,0,0,0,16,7,7
+226,Jacksonville Jaguars,JAX,DST,16,NE,3,3,10,2,0,0,0,0,23,7,7
+226,Oakland Raiders,OAK,DST,16,CAR,9,2,7,1,1,0,0,0,17,7,7
+226,Cincinnati Bengals,CIN,DST,3,WAS,8,5,13,0,1,0,0,0,25,7,7
+226,Miami Dolphins,MIA,DST,3,NYJ,3,2,8,2,0,0,0,0,17,7,7
+226,New York Giants,NYG,DST,17,PHI,4,1,7,1,0,0,0,0,7,7,7
+226,Los Angeles Rams,LAR,DST,17,SEA,7,6,7,0,0,0,0,0,20,7,7
+226,Chicago Bears,CHI,DST,15,GB,4,3,4,0,2,0,0,0,21,7,7
+226,New Orleans Saints,NO,DST,12,SF,2,0,2,1,1,0,0,0,19,7,7
+226,Pittsburgh Steelers,PIT,DST,8,WAS,5,1,5,0,0,0,0,0,12,7,7
+226,Tennessee Titans,TEN,DST,8,IND,7,2,7,1,0,0,0,0,19,7,7
+226,New York Jets,NYJ,DST,15,TEN,7,4,3,0,0,0,0,0,14,7,7
+253,Miami Dolphins,MIA,DST,2,OAK,2,0,9,1,0,0,0,0,13,6,6
+253,Philadelphia Eagles,PHI,DST,2,BAL,4,2,1,1,1,0,0,0,23,6,6
+253,Los Angeles Chargers,LAC,DST,2,TEN,1,0,4,1,0,0,0,0,10,6,6
+253,New York Giants,NYG,DST,5,CLE,2,0,2,2,1,0,0,0,27,6,6
+253,Cleveland Browns,CLE,DST,7,IND,4,3,6,0,1,0,0,0,17,6,6
+253,Green Bay Packers,GB,DST,7,LAR,3,3,7,1,0,0,0,0,20,6,6
+253,Miami Dolphins,MIA,DST,6,LAR,6,3,6,0,1,0,0,0,14,6,6
+253,New England Patriots,NE,DST,6,SEA,5,2,6,0,2,0,0,0,24,6,6
+253,Baltimore Ravens,BAL,DST,9,CLE,1,1,6,2,0,0,0,0,15,6,6
+253,Detroit Lions,DET,DST,9,JAX,1,1,2,2,0,0,0,0,14,6,6
+253,Kansas City Chiefs,KC,DST,9,LAC,3,1,1,1,1,0,0,0,19,6,6
+253,Philadelphia Eagles,PHI,DST,9,NO,2,2,1,0,2,0,0,0,22,6,6
+253,Detroit Lions,DET,DST,11,GB,7,3,5,1,0,0,0,0,18,6,6
+253,Pittsburgh Steelers,PIT,DST,11,BAL,4,2,4,0,0,0,0,0,13,6,6
+253,Dallas Cowboys,DAL,DST,1,NYG,5,3,5,0,1,0,0,0,17,6,6
+253,Indianapolis Colts,IND,DST,1,CHI,7,2,3,1,0,0,1,0,41,6,6
+253,Seattle Seahawks,SEA,DST,1,ARI,1,1,5,1,1,0,0,0,20,6,6
+253,Miami Dolphins,MIA,DST,13,NE,5,4,8,1,0,0,0,0,23,6,6
+253,New England Patriots,NE,DST,13,MIA,7,3,3,0,1,0,0,0,16,6,6
+253,San Francisco 49ers,SF,DST,13,LAR,5,2,3,0,0,0,0,0,8,6,6
+253,Jacksonville Jaguars,JAX,DST,10,IND,1,2,6,1,1,0,0,0,21,6,6
+253,Minnesota Vikings,MIN,DST,10,DET,5,2,3,1,1,0,0,0,24,6,6
+253,Jacksonville Jaguars,JAX,DST,12,TEN,6,1,2,2,0,0,0,0,19,6,6
+253,Los Angeles Chargers,LAC,DST,12,BAL,9,5,6,0,0,0,0,0,16,6,6
+253,Cincinnati Bengals,CIN,DST,14,DAL,5,3,9,1,0,0,0,0,20,6,6
+253,Jacksonville Jaguars,JAX,DST,14,NYJ,2,1,1,0,2,0,0,0,17,6,6
+253,New Orleans Saints,NO,DST,14,NYG,2,0,2,2,0,0,1,0,52,6,6
+253,Denver Broncos,DEN,DST,3,HOU,2,1,5,1,1,1,0,0,31,6,6
+253,Indianapolis Colts,IND,DST,8,TEN,4,2,2,0,0,0,0,0,13,6,6
+253,Los Angeles Chargers,LAC,DST,8,CLE,4,2,6,0,0,0,0,0,7,6,6
+253,Minnesota Vikings,MIN,DST,17,GB,5,5,7,0,1,0,0,0,34,6,6
+253,Seattle Seahawks,SEA,DST,17,LAR,0,0,5,1,0,0,0,0,13,6,6
+253,Washington Redskins,WAS,DST,15,CLE,4,2,2,2,0,0,0,0,21,6,6
+253,Houston Texans,HOU,DST,6,GB,5,2,7,0,0,0,0,1,42,6,6
+253,Minnesota Vikings,MIN,DST,1,JAX,3,2,7,0,1,0,0,0,23,6,6
+253,New Orleans Saints,NO,DST,1,WAS,3,2,5,0,0,0,0,1,40,6,6
+253,Minnesota Vikings,MIN,DST,12,CHI,3,1,5,1,1,0,0,0,28,6,6
+290,Detroit Lions,DET,DST,2,SF,4,3,4,0,1,0,0,0,27,5,5
+290,New York Giants,NYG,DST,2,TB,6,2,4,2,0,0,0,0,28,5,5
+290,San Francisco 49ers,SF,DST,2,DET,1,2,4,1,0,0,0,0,19,5,5
+290,Seattle Seahawks,SEA,DST,4,LAR,9,2,3,1,0,0,0,0,19,5,5
+290,Denver Broncos,DEN,DST,5,NE,9,4,5,0,1,0,0,0,31,5,5
+290,Green Bay Packers,GB,DST,5,IND,4,4,10,1,0,0,0,0,30,5,5
+290,Oakland Raiders,OAK,DST,7,JAX,7,3,6,0,1,0,0,0,23,5,5
+290,Washington Redskins,WAS,DST,7,NYG,2,1,6,2,0,0,0,0,27,5,5
+290,Pittsburgh Steelers,PIT,DST,6,TEN,4,3,3,1,0,0,0,0,26,5,5
+290,Seattle Seahawks,SEA,DST,6,NE,3,1,5,2,0,0,0,0,23,5,5
+290,Atlanta Falcons,ATL,DST,9,DAL,2,1,1,0,0,0,0,0,13,5,5
+290,Pittsburgh Steelers,PIT,DST,9,NYG,4,2,5,1,0,0,0,0,14,5,5
+290,Dallas Cowboys,DAL,DST,11,CLE,2,2,4,0,1,0,0,0,20,5,5
+290,Tampa Bay Buccaneers,TB,DST,11,CAR,10,2,3,0,1,0,0,0,15,5,5
+290,Detroit Lions,DET,DST,1,LAR,5,4,8,0,0,0,0,0,17,5,5
+290,San Francisco 49ers,SF,DST,1,GB,2,3,5,1,0,0,0,0,22,5,5
+290,Washington Redskins,WAS,DST,1,NO,3,2,5,2,0,0,0,0,32,5,5
+290,Green Bay Packers,GB,DST,13,MIN,2,0,1,2,0,0,0,0,14,5,5
+290,Los Angeles Rams,LAR,DST,10,SF,6,5,9,0,0,0,0,0,24,5,5
+290,Arizona Cardinals,ARI,DST,12,LAR,4,2,1,1,0,0,0,0,19,5,5
+290,Kansas City Chiefs,KC,DST,12,DEN,6,2,6,1,0,0,0,0,17,5,5
+290,Tampa Bay Buccaneers,TB,DST,12,ATL,6,1,1,1,1,0,0,0,24,5,5
+290,Carolina Panthers,CAR,DST,14,ATL,2,2,6,1,0,0,0,0,20,5,5
+290,Detroit Lions,DET,DST,14,GB,5,3,5,0,1,0,0,0,21,5,5
+290,New England Patriots,NE,DST,14,HOU,8,2,7,1,0,0,0,0,14,5,5
+290,Oakland Raiders,OAK,DST,14,DEN,6,3,4,1,0,0,0,0,26,5,5
+290,Washington Redskins,WAS,DST,14,BAL,3,2,3,1,1,0,0,0,28,5,5
+290,Houston Texans,HOU,DST,3,DEN,6,3,6,0,1,0,0,0,23,5,5
+290,Los Angeles Rams,LAR,DST,3,CHI,5,2,6,1,0,0,0,0,17,5,5
+290,Dallas Cowboys,DAL,DST,8,NYG,4,1,4,1,1,0,0,0,23,5,5
+290,New Orleans Saints,NO,DST,17,CAR,3,1,6,1,0,0,1,0,44,5,5
+290,Los Angeles Rams,LAR,DST,2,WAS,5,1,4,1,0,0,0,0,22,5,5
+290,Tennessee Titans,TEN,DST,6,PIT,5,1,3,1,0,0,0,0,23,5,5
+290,Los Angeles Rams,LAR,DST,11,NYJ,11,3,3,0,0,0,0,0,27,5,5
+290,Tampa Bay Buccaneers,TB,DST,17,ATL,2,2,6,0,0,0,0,0,17,5,5
+325,Atlanta Falcons,ATL,DST,4,CAR,5,3,3,0,1,0,0,0,28,4,4
+325,Dallas Cowboys,DAL,DST,4,CHI,2,2,3,0,1,0,0,0,22,4,4
+325,Jacksonville Jaguars,JAX,DST,4,CIN,3,0,1,1,1,0,0,0,27,4,4
+325,Kansas City Chiefs,KC,DST,4,LAC,6,3,3,1,0,0,0,0,31,4,4
+325,Arizona Cardinals,ARI,DST,5,LAR,4,1,6,1,0,0,0,0,17,4,4
+325,Los Angeles Chargers,LAC,DST,5,NO,5,3,7,1,0,0,0,0,31,4,4
+325,Tennessee Titans,TEN,DST,5,MIN,4,1,2,2,0,0,0,0,30,4,4
+325,Buffalo Bills,BUF,DST,7,TEN,6,2,4,0,0,0,0,1,35,4,4
+325,Indianapolis Colts,IND,DST,7,CLE,2,0,6,0,0,0,0,0,13,4,4
+325,Tennessee Titans,TEN,DST,7,BUF,4,1,5,1,1,0,0,0,34,4,4
+325,Los Angeles Rams,LAR,DST,6,MIA,4,3,4,0,0,0,0,0,17,4,4
+325,Dallas Cowboys,DAL,DST,9,ATL,6,3,6,0,0,0,0,0,19,4,4
+325,Jacksonville Jaguars,JAX,DST,11,HOU,3,2,6,2,1,0,0,0,43,4,4
+325,Jacksonville Jaguars,JAX,DST,1,MIN,4,2,1,0,1,0,0,0,26,4,4
+325,New York Giants,NYG,DST,1,DAL,4,2,2,1,0,0,0,0,24,4,4
+325,Pittsburgh Steelers,PIT,DST,1,DEN,2,2,4,0,1,0,0,0,25,4,4
+325,Chicago Bears,CHI,DST,13,SEA,4,2,2,0,1,0,0,0,23,4,4
+325,Cleveland Browns,CLE,DST,13,OAK,3,1,1,1,0,0,0,0,17,4,4
+325,Detroit Lions,DET,DST,13,IND,7,2,13,3,0,0,0,0,35,4,4
+325,Minnesota Vikings,MIN,DST,13,GB,5,2,3,1,0,0,0,0,23,4,4
+325,Carolina Panthers,CAR,DST,10,DEN,2,1,1,0,2,0,0,0,28,4,4
+325,Kansas City Chiefs,KC,DST,10,PIT,4,1,3,0,1,0,0,0,16,4,4
+325,San Francisco 49ers,SF,DST,10,LAR,6,2,6,0,1,0,0,0,24,4,4
+325,Houston Texans,HOU,DST,12,DET,9,3,7,0,1,0,0,0,31,4,4
+325,Baltimore Ravens,BAL,DST,16,NYG,4,3,9,0,0,0,0,0,14,4,4
+325,Kansas City Chiefs,KC,DST,16,IND,7,3,4,0,0,0,0,0,14,4,4
+325,New York Jets,NYJ,DST,16,LAC,6,4,6,0,0,0,0,0,27,4,4
+325,Tampa Bay Buccaneers,TB,DST,16,LAR,5,0,5,1,1,0,0,0,22,4,4
+325,Baltimore Ravens,BAL,DST,14,WAS,3,3,8,0,1,0,0,0,31,4,4
+325,Buffalo Bills,BUF,DST,14,LAR,3,1,4,1,0,0,0,0,15,4,4
+325,Chicago Bears,CHI,DST,14,MIN,7,1,1,1,0,0,0,0,15,4,4
+325,Miami Dolphins,MIA,DST,14,SF,9,4,6,0,0,0,0,0,27,4,4
+325,Oakland Raiders,OAK,DST,3,PIT,2,1,2,0,2,0,0,0,31,4,4
+325,Los Angeles Chargers,LAC,DST,3,ATL,3,2,2,1,0,0,0,0,27,4,4
+325,San Francisco 49ers,SF,DST,3,MIN,3,0,2,0,2,0,0,0,24,4,4
+325,Arizona Cardinals,ARI,DST,8,SF,8,4,4,0,0,0,0,0,24,4,4
+325,Atlanta Falcons,ATL,DST,8,PHI,8,3,5,0,0,0,0,0,17,4,4
+325,Denver Broncos,DEN,DST,8,NO,4,1,1,1,0,0,0,0,14,4,4
+325,Detroit Lions,DET,DST,8,SEA,7,0,3,1,1,0,0,0,24,4,4
+325,Jacksonville Jaguars,JAX,DST,8,GB,2,2,3,0,1,0,0,0,24,4,4
+325,Buffalo Bills,BUF,DST,9,HOU,6,2,3,0,0,0,0,0,21,4,4
+325,Buffalo Bills,BUF,DST,16,MIA,4,2,4,0,0,0,0,0,24,4,4
+325,Oakland Raiders,OAK,DST,17,LAC,5,2,3,0,0,0,0,0,24,4,4
+368,New York Jets,NYJ,DST,2,PIT,7,3,3,0,0,0,0,0,27,3,3
+368,Detroit Lions,DET,DST,4,MIN,7,2,7,0,0,0,0,0,20,3,3
+368,New Orleans Saints,NO,DST,4,GB,0,0,1,1,1,0,0,0,28,3,3
+368,New York Giants,NYG,DST,4,PHI,8,2,3,0,0,0,0,0,19,3,3
+368,Philadelphia Eagles,PHI,DST,4,NYG,1,0,3,1,0,0,0,0,17,3,3
+368,Washington Redskins,WAS,DST,4,TB,2,1,1,1,0,0,0,0,22,3,3
+368,Carolina Panthers,CAR,DST,7,DAL,2,0,0,0,1,0,0,0,19,3,3
+368,New York Jets,NYJ,DST,7,NE,4,1,2,0,1,0,0,0,27,3,3
+368,Pittsburgh Steelers,PIT,DST,7,CIN,1,0,2,1,0,0,0,0,17,3,3
+368,Cincinnati Bengals,CIN,DST,6,CLE,4,2,2,1,0,0,0,0,28,3,3
+368,Cincinnati Bengals,CIN,DST,9,DEN,1,0,0,2,0,0,0,0,31,3,3
+368,Indianapolis Colts,IND,DST,9,MIA,2,2,6,0,0,0,0,0,20,3,3
+368,Tennessee Titans,TEN,DST,9,CHI,5,3,5,0,1,1,0,0,45,3,3
+368,Carolina Panthers,CAR,DST,1,TB,4,2,2,0,0,0,0,0,16,3,3
+368,Jacksonville Jaguars,JAX,DST,13,BUF,5,0,2,1,1,0,0,0,34,3,3
+368,New Orleans Saints,NO,DST,13,ATL,3,1,6,0,1,0,0,0,23,3,3
+368,New York Giants,NYG,DST,13,WAS,1,0,2,0,1,0,0,0,17,3,3
+368,New Orleans Saints,NO,DST,10,ATL,5,1,5,1,0,0,0,0,27,3,3
+368,Philadelphia Eagles,PHI,DST,10,DAL,7,3,6,0,0,0,0,0,26,3,3
+368,Detroit Lions,DET,DST,12,HOU,7,2,6,1,0,0,0,0,34,3,3
+368,Houston Texans,HOU,DST,16,MIN,7,1,5,0,1,0,0,0,23,3,3
+368,New Orleans Saints,NO,DST,16,DAL,3,2,4,0,1,0,0,0,31,3,3
+368,Philadelphia Eagles,PHI,DST,16,WAS,2,1,2,1,0,0,0,0,27,3,3
+368,Cleveland Browns,CLE,DST,3,BUF,2,1,1,0,1,0,0,0,24,3,3
+368,Jacksonville Jaguars,JAX,DST,3,IND,1,0,6,1,0,0,0,0,17,3,3
+368,Philadelphia Eagles,PHI,DST,3,ARI,9,3,6,0,0,0,0,0,21,3,3
+368,New York Jets,NYJ,DST,8,MIA,5,2,3,0,1,0,0,0,30,3,3
+368,Seattle Seahawks,SEA,DST,8,DET,3,2,7,1,0,0,0,0,28,3,3
+368,Baltimore Ravens,BAL,DST,17,CIN,4,2,2,0,0,0,0,0,17,3,3
+368,Carolina Panthers,CAR,DST,17,NO,4,2,3,1,0,0,0,0,32,3,3
+368,Detroit Lions,DET,DST,15,ARI,7,1,5,1,0,0,0,0,26,3,3
+368,Jacksonville Jaguars,JAX,DST,15,MIA,2,1,0,0,1,0,0,0,24,3,3
+368,Kansas City Chiefs,KC,DST,15,OAK,4,0,0,0,1,0,0,0,15,3,3
+368,Pittsburgh Steelers,PIT,DST,15,DAL,3,1,2,0,1,0,0,0,27,3,3
+368,Los Angeles Chargers,LAC,DST,15,CAR,5,2,4,0,1,0,0,0,31,3,3
+368,Miami Dolphins,MIA,DST,9,IND,4,1,6,0,0,0,0,0,23,3,3
+368,Philadelphia Eagles,PHI,DST,8,ATL,9,2,2,0,0,0,0,0,30,3,3
+405,Dallas Cowboys,DAL,DST,2,SEA,3,2,4,0,0,0,0,0,27,2,2
+405,Minnesota Vikings,MIN,DST,2,IND,6,2,3,0,0,0,0,0,23,2,2
+405,New Orleans Saints,NO,DST,2,CAR,3,1,3,0,1,0,0,0,29,2,2
+405,Tennessee Titans,TEN,DST,2,LAC,8,4,4,1,0,0,0,0,38,2,2
+405,Green Bay Packers,GB,DST,4,NO,4,2,2,0,0,0,0,0,27,2,2
+405,Jacksonville Jaguars,JAX,DST,5,CHI,3,1,4,1,0,0,0,0,29,2,2
+405,Los Angeles Rams,LAR,DST,7,GB,7,3,5,0,0,0,0,0,30,2,2
+405,Minnesota Vikings,MIN,DST,6,WAS,6,1,3,1,0,0,0,0,32,2,2
+405,Philadelphia Eagles,PHI,DST,6,DET,4,0,4,1,0,0,0,0,26,2,2
+405,Arizona Cardinals,ARI,DST,9,GB,1,1,4,1,0,0,0,0,31,2,2
+405,Kansas City Chiefs,KC,DST,13,CAR,4,2,5,0,0,0,0,0,21,2,2
+405,Tampa Bay Buccaneers,TB,DST,13,DEN,7,0,0,1,0,0,0,0,25,2,2
+405,Washington Redskins,WAS,DST,13,NYG,1,1,2,0,0,0,0,0,16,2,2
+405,Atlanta Falcons,ATL,DST,10,NO,2,1,1,1,0,0,0,0,31,2,2
+405,Atlanta Falcons,ATL,DST,12,TB,7,2,4,0,0,0,0,0,23,2,2
+405,Miami Dolphins,MIA,DST,12,SEA,5,2,5,0,0,0,0,0,21,2,2
+405,Detroit Lions,DET,DST,16,ATL,4,1,9,0,0,1,0,0,31,2,2
+405,Kansas City Chiefs,KC,DST,14,CLE,7,3,4,0,0,0,0,0,30,2,2
+405,Philadelphia Eagles,PHI,DST,14,TB,6,2,5,0,0,0,0,0,21,2,2
+405,Green Bay Packers,GB,DST,3,SEA,2,1,3,0,0,0,0,0,14,2,2
+405,Pittsburgh Steelers,PIT,DST,3,OAK,5,1,1,1,0,0,0,0,34,2,2
+405,Kansas City Chiefs,KC,DST,8,OAK,6,0,3,1,0,0,0,0,26,2,2
+405,Atlanta Falcons,ATL,DST,17,TB,4,0,2,1,0,0,0,0,22,2,2
+405,Cleveland Browns,CLE,DST,17,PIT,4,2,3,0,0,0,0,0,24,2,2
+405,Detroit Lions,DET,DST,17,CHI,5,2,5,0,0,0,0,0,26,2,2
+405,New York Jets,NYJ,DST,17,BUF,1,0,4,0,1,0,0,0,22,2,2
+405,Indianapolis Colts,IND,DST,15,HOU,4,3,3,0,0,0,0,0,29,2,2
+405,San Francisco 49ers,SF,DST,6,NYG,6,0,1,0,0,0,0,0,26,2,2
+405,Minnesota Vikings,MIN,DST,9,SEA,4,1,4,0,0,0,0,0,30,2,2
+405,Washington Redskins,WAS,DST,9,CAR,2,0,2,0,0,0,0,0,21,2,2
+435,Denver Broncos,DEN,DST,2,ATL,2,1,6,0,0,0,0,0,27,1,1
+435,Buffalo Bills,BUF,DST,4,NE,3,1,3,0,2,0,0,0,52,1,1
+435,New York Jets,NYJ,DST,4,SF,5,2,3,0,0,0,0,0,28,1,1
+435,Tampa Bay Buccaneers,TB,DST,4,WAS,6,1,2,0,0,0,0,0,24,1,1
+435,Philadelphia Eagles,PHI,DST,5,PIT,1,0,3,0,0,0,0,0,16,1,1
+435,New Orleans Saints,NO,DST,7,TB,6,2,4,0,0,0,0,0,28,1,1
+435,Cleveland Browns,CLE,DST,9,BAL,2,1,1,0,0,0,0,0,25,1,1
+435,Chicago Bears,CHI,DST,11,SF,3,2,4,0,0,0,0,0,30,1,1
+435,Kansas City Chiefs,KC,DST,11,CIN,4,2,3,0,0,0,0,0,28,1,1
+435,Philadelphia Eagles,PHI,DST,11,WAS,6,2,4,0,0,0,0,0,31,1,1
+435,Oakland Raiders,OAK,DST,1,LAC,4,1,3,0,0,0,0,0,22,1,1
+435,Carolina Panthers,CAR,DST,13,KC,5,1,3,0,0,0,0,0,27,1,1
+435,Indianapolis Colts,IND,DST,13,DET,5,0,4,1,0,0,0,0,33,1,1
+435,Seattle Seahawks,SEA,DST,13,CHI,2,0,3,0,0,0,0,0,17,1,1
+435,Detroit Lions,DET,DST,10,MIN,9,2,5,0,0,0,0,0,34,1,1
+435,New York Giants,NYG,DST,10,CIN,4,0,1,0,1,0,0,0,31,1,1
+435,Dallas Cowboys,DAL,DST,12,WAS,5,3,7,1,0,0,0,0,38,1,1
+435,Oakland Raiders,OAK,DST,12,CIN,2,2,5,0,0,0,0,0,34,1,1
+435,Philadelphia Eagles,PHI,DST,12,CAR,6,2,4,0,0,0,0,0,30,1,1
+435,Cleveland Browns,CLE,DST,16,DEN,3,0,2,1,0,0,0,0,34,1,1
+435,Baltimore Ravens,BAL,DST,3,NE,7,2,6,0,0,0,0,0,30,1,1
+435,Indianapolis Colts,IND,DST,3,JAX,4,1,3,0,0,0,0,0,22,1,1
+435,New England Patriots,NE,DST,3,BAL,1,0,0,1,0,0,0,0,31,1,1
+435,New Orleans Saints,NO,DST,8,DEN,2,0,1,0,1,0,0,0,34,1,1
+435,Washington Redskins,WAS,DST,8,PIT,3,1,1,0,0,0,0,0,27,1,1
+435,Arizona Cardinals,ARI,DST,17,SF,3,1,4,0,0,0,0,0,27,1,1
+435,Baltimore Ravens,BAL,DST,15,DEN,6,2,5,0,0,0,0,0,28,1,1
+435,New England Patriots,NE,DST,15,SF,5,1,1,1,1,0,0,0,41,1,1
+435,Los Angeles Rams,LAR,DST,15,MIN,10,2,2,0,0,0,0,0,30,1,1
+435,Oakland Raiders,OAK,DST,9,TB,6,1,2,0,1,0,0,0,42,1,1
+465,Jacksonville Jaguars,JAX,DST,2,HOU,6,0,4,0,0,0,0,0,27,0,0
+465,Tennessee Titans,TEN,DST,4,HOU,5,0,3,0,0,0,0,0,26,0,0
+465,Cleveland Browns,CLE,DST,5,NYG,0,0,1,1,1,0,0,0,41,0,0
+465,Dallas Cowboys,DAL,DST,6,BAL,2,1,3,0,0,0,0,0,31,0,0
+465,Jacksonville Jaguars,JAX,DST,9,DET,0,1,3,0,0,0,0,0,31,0,0
+465,Houston Texans,HOU,DST,11,JAX,5,2,10,0,1,0,0,0,37,0,0
+465,Tennessee Titans,TEN,DST,1,NE,6,1,4,0,0,0,0,0,28,0,0
+465,Tennessee Titans,TEN,DST,13,HOU,2,0,1,0,0,0,0,0,24,0,0
+465,Miami Dolphins,MIA,DST,10,TEN,4,1,1,0,0,0,0,0,31,0,0
+465,Los Angeles Chargers,LAC,DST,10,TB,3,1,1,0,0,0,0,0,28,0,0
+465,New York Jets,NYJ,DST,12,NE,3,0,1,0,1,1,0,0,37,0,0
+465,Atlanta Falcons,ATL,DST,14,CAR,3,1,3,0,0,0,0,0,30,0,0
+465,Pittsburgh Steelers,PIT,DST,14,LAC,2,1,4,0,0,0,0,0,28,0,0
+465,Detroit Lions,DET,DST,3,TEN,5,0,1,0,2,0,0,0,38,0,0
+465,Dallas Cowboys,DAL,DST,17,WAS,3,1,2,0,0,0,0,0,28,0,0
+465,Houston Texans,HOU,DST,17,IND,6,1,5,0,0,0,0,0,28,0,0
+465,Miami Dolphins,MIA,DST,17,NE,5,1,2,0,0,0,0,0,28,0,0
+465,Cleveland Browns,CLE,DST,15,WAS,3,2,3,1,0,0,0,0,38,0,0
+465,New York Giants,NYG,DST,15,ATL,5,1,3,0,0,0,0,0,34,0,0
+465,Buffalo Bills,BUF,DST,15,SEA,3,2,3,0,0,0,0,0,44,0,0
+485,Oakland Raiders,OAK,DST,11,NO,2,0,4,0,0,0,0,0,32,-1,-1
+485,Cincinnati Bengals,CIN,DST,1,BAL,4,3,4,0,0,0,0,0,38,-1,-1
+485,Dallas Cowboys,DAL,DST,16,NO,4,0,2,0,0,0,0,0,34,-1,-1
+485,New York Giants,NYG,DST,16,BAL,6,0,2,0,0,0,0,0,33,-1,-1
+485,San Francisco 49ers,SF,DST,16,SEA,2,1,1,1,0,0,0,0,42,-1,-1
+485,Arizona Cardinals,ARI,DST,14,SEA,3,1,3,1,0,0,0,0,46,-1,-1
+485,Houston Texans,HOU,DST,14,NE,3,1,6,1,0,0,0,0,42,-1,-1
+492,Oakland Raiders,OAK,DST,4,DEN,3,0,1,0,1,0,0,0,37,-2,-2
+492,Buffalo Bills,BUF,DST,5,SF,0,0,3,0,1,0,0,0,45,-2,-2
+492,Baltimore Ravens,BAL,DST,7,HOU,3,2,5,0,0,0,0,0,35,-2,-2
+492,Tampa Bay Buccaneers,TB,DST,7,NO,4,0,0,1,0,0,0,0,35,-2,-2
+492,Buffalo Bills,BUF,DST,1,NYJ,1,0,0,1,0,0,0,0,42,-2,-2
+492,Oakland Raiders,OAK,DST,10,BAL,6,0,4,1,0,0,0,0,55,-2,-2
+492,Carolina Panthers,CAR,DST,3,NYG,6,2,2,0,0,0,0,0,36,-2,-2
+492,Kansas City Chiefs,KC,DST,17,DEN,3,0,0,0,1,0,0,0,38,-2,-2
+500,Oakland Raiders,OAK,DST,2,MIA,5,1,4,0,0,0,0,0,35,-3,-3
+500,Indianapolis Colts,IND,DST,6,NYJ,2,1,3,0,0,0,0,0,35,-3,-3
+500,Kansas City Chiefs,KC,DST,1,ATL,4,1,3,0,0,0,0,0,40,-3,-3
+500,Buffalo Bills,BUF,DST,10,NE,3,1,4,0,0,0,0,0,37,-3,-3
+500,Green Bay Packers,GB,DST,12,NYG,3,1,2,0,0,0,0,0,38,-3,-3
+500,Tennessee Titans,TEN,DST,16,GB,2,1,4,0,0,0,0,0,55,-3,-3
+500,Minnesota Vikings,MIN,DST,8,TB,2,1,3,0,0,0,0,0,36,-3,-3
+500,Green Bay Packers,GB,DST,17,MIN,6,1,2,0,0,0,0,0,37,-3,-3
+500,Philadelphia Eagles,PHI,DST,17,NYG,3,1,2,0,0,0,0,0,42,-3,-3
+500,Tampa Bay Buccaneers,TB,DST,15,NO,5,1,5,0,0,0,0,0,41,-3,-3
+510,Kansas City Chiefs,KC,DST,2,BUF,3,0,1,0,0,0,0,0,35,-4,-4
+510,Indianapolis Colts,IND,DST,11,NE,2,0,2,0,0,0,0,0,47,-4,-4
+510,Los Angeles Rams,LAR,DST,8,NE,4,0,0,0,0,0,0,0,45,-4,-4

@@ -1,0 +1,23 @@
+Rank,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,FanDuelSalary,FantasyPointsFanDuel
+1,Minnesota Vikings,MIN,DST,2,NO,null,null,4500,11.4
+1,Minnesota Vikings,MIN,DST,3,PHI,null,null,4900,11.4
+3,New England Patriots,NE,DST,2,TEN,null,null,5100,8.8
+3,New England Patriots,NE,DST,3,JAX,null,null,5200,8.8
+3,New England Patriots,NE,DST,4,PHI,null,null,4800,8.8
+6,Pittsburgh Steelers,PIT,DST,2,JAX,null,null,5400,8.6
+7,Kansas City Chiefs,KC,DST,1,TEN,null,null,4800,8
+7,Jacksonville Jaguars,JAX,DST,1,BUF,null,null,5600,8
+7,Jacksonville Jaguars,JAX,DST,2,PIT,null,null,4800,8
+7,Jacksonville Jaguars,JAX,DST,3,NE,null,null,4400,8
+11,Buffalo Bills,BUF,DST,1,JAX,null,null,4200,7.7
+12,Tennessee Titans,TEN,DST,1,KC,null,null,4400,7.5
+12,Tennessee Titans,TEN,DST,2,NE,null,null,4000,7.5
+14,Atlanta Falcons,ATL,DST,1,LAR,null,null,4300,7
+14,Atlanta Falcons,ATL,DST,2,PHI,null,null,4500,7
+16,New Orleans Saints,NO,DST,1,CAR,null,null,4600,6.9
+16,New Orleans Saints,NO,DST,2,MIN,null,null,4400,6.9
+18,Los Angeles Rams,LAR,DST,1,ATL,null,null,4700,6.4
+19,Philadelphia Eagles,PHI,DST,2,ATL,null,null,4700,6.2
+19,Philadelphia Eagles,PHI,DST,3,MIN,null,null,4800,6.2
+19,Philadelphia Eagles,PHI,DST,4,NE,null,null,4300,6.2
+22,Carolina Panthers,CAR,DST,1,NO,null,null,4200,6.1

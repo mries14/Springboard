@@ -1,0 +1,23 @@
+Rank,Name,Team,Position,Week,Opponent,TacklesForLoss,Sacks,QuarterbackHits,Interceptions,FumblesRecovered,Safeties,DefensiveTouchdowns,SpecialTeamsTouchdowns,PointsAllowedByDefenseSpecialTeams,FantasyPointsPerGameFanDuel,FantasyPointsFanDuel
+1,Seattle Seahawks,SEA,DST,1,DET,0,3.3,0,1.5,0.7,0,0,0,18,10.5,10.5
+2,Houston Texans,HOU,DST,1,OAK,0,3.3,0,1.1,0.7,0,0,0,19.1,9.7,9.7
+3,Green Bay Packers,GB,DST,1,NYG,0,3.3,0,1.4,0.4,0.2,0,0,20.5,9.5,9.5
+4,Pittsburgh Steelers,PIT,DST,1,MIA,0,2.5,0,1.2,0.4,0,0,0,22.2,6.9,6.9
+5,Detroit Lions,DET,DST,1,SEA,0,3,0,0.8,0.5,0,0,0,22.6,6.8,6.8
+6,New York Giants,NYG,DST,1,GB,0,2.4,0,0.8,0.7,0,0,0,25.6,6.6,6.6
+7,Miami Dolphins,MIA,DST,1,PIT,0,2.9,0,0.6,0.3,0,0,0,27.5,5.9,5.9
+8,Seattle Seahawks,SEA,DST,2,ATL,0,3.3,0,1.5,0.7,0,0,0,null,5.5,5.5
+9,Oakland Raiders,OAK,DST,1,HOU,0,2.2,0,0.8,0.4,0,0,0,27.3,5.2,5.2
+10,Houston Texans,HOU,DST,2,NE,0,3.3,0,1.1,0.7,0,0,0,null,4.7,4.7
+11,Green Bay Packers,GB,DST,2,DAL,0,3.3,0,1.4,0.4,0.2,0,0,null,4.5,4.5
+11,Green Bay Packers,GB,DST,3,ATL,0,3.3,0,1.4,0.4,0.2,0,0,null,4.5,4.5
+13,Kansas City Chiefs,KC,DST,2,PIT,0,2.3,0,1.3,1,0,0,0,null,4.1,4.1
+14,New England Patriots,NE,DST,2,HOU,0,2.4,0,1,0.7,0,0,0,null,3,3
+14,New England Patriots,NE,DST,3,PIT,0,2.4,0,1,0.7,0,0,0,null,3,3
+14,New England Patriots,NE,DST,4,ATL,0,2.4,0,1,0.7,0,0,0,null,3,3
+17,Pittsburgh Steelers,PIT,DST,2,KC,0,2.5,0,1.2,0.4,0,0,0,null,2.9,2.9
+17,Pittsburgh Steelers,PIT,DST,3,NE,0,2.5,0,1.2,0.4,0,0,0,null,2.9,2.9
+19,Dallas Cowboys,DAL,DST,2,GB,0,2.2,0,0.9,0.8,0,0,0,null,2.8,2.8
+20,Atlanta Falcons,ATL,DST,2,SEA,0,1.8,0,0.9,0.7,0,0,0,null,1.6,1.6
+20,Atlanta Falcons,ATL,DST,3,GB,0,1.8,0,0.9,0.7,0,0,0,null,1.6,1.6
+20,Atlanta Falcons,ATL,DST,4,NE,0,1.8,0,0.9,0.7,0,0,0,null,1.6,1.6

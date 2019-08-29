@@ -1,0 +1,23 @@
+Rank,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,FanDuelSalary,FantasyPointsFanDuel
+1,Seattle Seahawks,SEA,DST,1,DAL,null,null,4300,9.8
+2,Los Angeles Rams,LAR,DST,2,DAL,null,null,5000,9
+2,Los Angeles Rams,LAR,DST,3,NO,null,null,4200,9
+2,Los Angeles Rams,LAR,DST,4,NE,null,null,null,9
+5,Houston Texans,HOU,DST,1,IND,null,null,4800,8.8
+6,New Orleans Saints,NO,DST,2,PHI,null,null,5000,8.7
+6,New Orleans Saints,NO,DST,3,LAR,null,null,4600,8.7
+8,Kansas City Chiefs,KC,DST,2,IND,null,null,4600,8.6
+8,Kansas City Chiefs,KC,DST,3,NE,null,null,4400,8.6
+10,Philadelphia Eagles,PHI,DST,1,CHI,null,null,4200,8.5
+10,Philadelphia Eagles,PHI,DST,2,NO,null,null,4000,8.5
+12,Baltimore Ravens,BAL,DST,1,LAC,null,null,4900,8.4
+13,Chicago Bears,CHI,DST,1,PHI,null,null,5500,8.3
+14,New England Patriots,NE,DST,2,LAC,null,null,4700,8
+14,New England Patriots,NE,DST,3,KC,null,null,4000,8
+14,New England Patriots,NE,DST,4,LAR,null,null,null,8
+17,Los Angeles Chargers,LAC,DST,1,BAL,null,null,4500,7.8
+17,Los Angeles Chargers,LAC,DST,2,NE,null,null,4300,7.8
+19,Indianapolis Colts,IND,DST,1,HOU,null,null,3700,6.7
+19,Indianapolis Colts,IND,DST,2,KC,null,null,4000,6.7
+21,Dallas Cowboys,DAL,DST,1,SEA,null,null,5100,5.9
+21,Dallas Cowboys,DAL,DST,2,LAR,null,null,4200,5.9

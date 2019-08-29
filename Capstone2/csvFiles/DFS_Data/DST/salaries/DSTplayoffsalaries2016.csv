@@ -1,0 +1,23 @@
+Rank,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,FanDuelSalary,FantasyPointsFanDuel
+1,Seattle Seahawks,SEA,DST,1,DET,null,null,5100,10.5
+2,Houston Texans,HOU,DST,1,OAK,null,null,4800,9.7
+3,Green Bay Packers,GB,DST,1,NYG,null,null,4600,9.5
+4,Pittsburgh Steelers,PIT,DST,1,MIA,null,null,4700,6.9
+5,Detroit Lions,DET,DST,1,SEA,null,null,4300,6.8
+6,New York Giants,NYG,DST,1,GB,null,null,4400,6.6
+7,Miami Dolphins,MIA,DST,1,PIT,null,null,4100,5.9
+8,Seattle Seahawks,SEA,DST,2,ATL,null,null,4700,5.5
+9,Oakland Raiders,OAK,DST,1,HOU,null,null,4700,5.2
+10,Houston Texans,HOU,DST,2,NE,null,null,4200,4.7
+11,Green Bay Packers,GB,DST,2,DAL,null,null,4300,4.5
+11,Green Bay Packers,GB,DST,3,ATL,null,null,4000,4.5
+13,Kansas City Chiefs,KC,DST,2,PIT,null,null,4800,4.1
+14,New England Patriots,NE,DST,2,HOU,null,null,5100,3
+14,New England Patriots,NE,DST,3,PIT,null,null,4400,3
+14,New England Patriots,NE,DST,4,ATL,null,null,4400,3
+17,Pittsburgh Steelers,PIT,DST,2,KC,null,null,4500,2.9
+17,Pittsburgh Steelers,PIT,DST,3,NE,null,null,4200,2.9
+19,Dallas Cowboys,DAL,DST,2,GB,null,null,4500,2.8
+20,Atlanta Falcons,ATL,DST,2,SEA,null,null,4300,1.6
+20,Atlanta Falcons,ATL,DST,3,GB,null,null,4100,1.6
+20,Atlanta Falcons,ATL,DST,4,NE,null,null,4300,1.6

@@ -1,0 +1,23 @@
+Rank,Name,Team,Position,Week,Opponent,TacklesForLoss,Sacks,QuarterbackHits,Interceptions,FumblesRecovered,Safeties,DefensiveTouchdowns,SpecialTeamsTouchdowns,PointsAllowedByDefenseSpecialTeams,FantasyPointsPerGameFanDuel,FantasyPointsFanDuel
+1,Seattle Seahawks,SEA,DST,1,MIN,0,4,0,2,1,0,0,0,18,11,11
+2,Houston Texans,HOU,DST,1,KC,0,3,0,2,1,0,0,0,19,10,10
+2,Seattle Seahawks,SEA,DST,2,CAR,0,3,0,2,1,0,0,0,18,10,10
+2,New England Patriots,NE,DST,3,DEN,0,4,0,2,1,0,0,0,23,10,10
+5,Green Bay Packers,GB,DST,1,WAS,0,3,0,2,1,0,0,0,24,9,9
+5,New England Patriots,NE,DST,2,KC,0,3,0,2,1,0,0,0,23,9,9
+7,Kansas City Chiefs,KC,DST,1,HOU,0,4,0,1,1,0,0,0,22,8,8
+7,Kansas City Chiefs,KC,DST,2,NE,0,3,0,1,1,0,0,0,20,8,8
+9,Pittsburgh Steelers,PIT,DST,1,CIN,0,3,0,1,1,0,0,0,24,7,7
+9,Minnesota Vikings,MIN,DST,1,SEA,0,3,0,1,1,0,0,0,23,7,7
+9,Denver Broncos,DEN,DST,4,CAR,0,3,0,1,1,0,0,0,24,7,7
+9,Denver Broncos,DEN,DST,2,PIT,0,3,0,1,1,0,0,0,24,7,7
+9,Carolina Panthers,CAR,DST,2,SEA,0,3,0,1,1,0,0,0,23,7,7
+9,Pittsburgh Steelers,PIT,DST,2,DEN,0,3,0,1,1,0,0,0,23,7,7
+9,Green Bay Packers,GB,DST,2,ARI,0,3,0,1,1,0,0,0,22,7,7
+9,Denver Broncos,DEN,DST,3,NE,0,3,0,1,1,0,0,0,24,7,7
+17,Cincinnati Bengals,CIN,DST,1,PIT,0,2,0,1,1,0,0,0,22,6,6
+17,Washington Redskins,WAS,DST,1,GB,0,2,0,1,1,0,0,0,22,6,6
+17,Carolina Panthers,CAR,DST,4,DEN,0,2,0,1,1,0,0,0,23,6,6
+17,Arizona Cardinals,ARI,DST,2,GB,0,3,0,1,1,0,0,0,29,6,6
+17,Carolina Panthers,CAR,DST,3,ARI,0,2,0,1,1,0,0,0,23,6,6
+17,Arizona Cardinals,ARI,DST,3,CAR,0,3,0,1,1,0,0,0,29,6,6

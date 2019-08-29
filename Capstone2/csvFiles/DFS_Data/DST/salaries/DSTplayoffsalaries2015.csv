@@ -1,0 +1,23 @@
+Rank,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,FanDuelSalary,FantasyPointsFanDuel
+1,Seattle Seahawks,SEA,DST,1,MIN,null,null,5100,11
+2,Houston Texans,HOU,DST,1,KC,null,null,4600,10
+2,Seattle Seahawks,SEA,DST,2,CAR,null,null,4700,10
+2,New England Patriots,NE,DST,3,DEN,null,null,4600,10
+5,Green Bay Packers,GB,DST,1,WAS,null,null,4500,9
+5,New England Patriots,NE,DST,2,KC,null,null,4700,9
+7,Kansas City Chiefs,KC,DST,1,HOU,null,null,5100,8
+7,Kansas City Chiefs,KC,DST,2,NE,null,null,4600,8
+9,Pittsburgh Steelers,PIT,DST,1,CIN,null,null,4500,7
+9,Minnesota Vikings,MIN,DST,1,SEA,null,null,4500,7
+9,Denver Broncos,DEN,DST,2,PIT,null,null,5300,7
+9,Carolina Panthers,CAR,DST,2,SEA,null,null,5000,7
+9,Pittsburgh Steelers,PIT,DST,2,DEN,null,null,4700,7
+9,Green Bay Packers,GB,DST,2,ARI,null,null,4200,7
+9,Denver Broncos,DEN,DST,3,NE,null,null,4800,7
+9,Denver Broncos,DEN,DST,4,CAR,null,null,null,7
+17,Cincinnati Bengals,CIN,DST,1,PIT,null,null,4400,6
+17,Washington Redskins,WAS,DST,1,GB,null,null,4300,6
+17,Arizona Cardinals,ARI,DST,2,GB,null,null,4800,6
+17,Carolina Panthers,CAR,DST,3,ARI,null,null,5100,6
+17,Arizona Cardinals,ARI,DST,3,CAR,null,null,4900,6
+17,Carolina Panthers,CAR,DST,4,DEN,null,null,null,6

@@ -1,0 +1,513 @@
+Rank,Name,Team,Position,Week,Opponent,UpcomingOpponentRank,UpcomingOpponentPositionRank,FanDuelSalary,FantasyPointsFanDuel
+1,Minnesota Vikings,MIN,DST,3,BUF,null,null,4900,12.7
+2,Baltimore Ravens,BAL,DST,1,BUF,null,null,4800,10.3
+2,Chicago Bears,CHI,DST,9,BUF,null,null,5400,10.3
+4,Chicago Bears,CHI,DST,8,NYJ,null,null,5000,10.1
+5,Jacksonville Jaguars,JAX,DST,7,HOU,null,null,4400,9.9
+5,Kansas City Chiefs,KC,DST,10,ARI,null,null,4600,9.9
+7,Seattle Seahawks,SEA,DST,17,ARI,null,null,4700,9.8
+8,Jacksonville Jaguars,JAX,DST,1,NYG,null,null,4700,9.7
+8,Los Angeles Rams,LAR,DST,2,ARI,null,null,4800,9.7
+8,Los Angeles Rams,LAR,DST,16,ARI,null,null,4900,9.7
+11,Chicago Bears,CHI,DST,16,SF,null,null,5000,9.6
+11,Chicago Bears,CHI,DST,6,MIA,null,null,4500,9.6
+13,Kansas City Chiefs,KC,DST,13,OAK,null,null,4300,9.4
+13,Chicago Bears,CHI,DST,10,DET,null,null,5000,9.4
+15,Baltimore Ravens,BAL,DST,15,TB,null,null,5000,9.3
+15,Green Bay Packers,GB,DST,13,ARI,null,null,4400,9.3
+15,Philadelphia Eagles,PHI,DST,13,WAS,null,null,4100,9.3
+15,New York Jets,NYJ,DST,10,BUF,null,null,4900,9.3
+19,Chicago Bears,CHI,DST,13,NYG,null,null,4800,9.2
+19,Chicago Bears,CHI,DST,3,ARI,null,null,4300,9.2
+21,New Orleans Saints,NO,DST,1,TB,null,null,4600,9.1
+21,Tennessee Titans,TEN,DST,13,NYJ,null,null,4400,9.1
+21,Jacksonville Jaguars,JAX,DST,3,TEN,null,null,5000,9.1
+21,Los Angeles Chargers,LAC,DST,14,CIN,null,null,4600,9.1
+21,Houston Texans,HOU,DST,6,BUF,null,null,4700,9.1
+26,Chicago Bears,CHI,DST,4,TB,null,null,4300,9
+26,Los Angeles Rams,LAR,DST,5,SEA,null,null,4700,9
+26,Houston Texans,HOU,DST,15,NYJ,null,null,5000,9
+26,Chicago Bears,CHI,DST,15,GB,null,null,3700,9
+26,Minnesota Vikings,MIN,DST,15,MIA,null,null,3900,9
+26,Los Angeles Rams,LAR,DST,17,SF,null,null,4800,9
+26,Pittsburgh Steelers,PIT,DST,8,CLE,null,null,3800,9
+26,Miami Dolphins,MIA,DST,13,BUF,null,null,4100,9
+26,Seattle Seahawks,SEA,DST,13,SF,null,null,4600,9
+35,Chicago Bears,CHI,DST,12,DET,null,null,4700,8.9
+36,Los Angeles Chargers,LAC,DST,2,BUF,null,null,4400,8.8
+36,Jacksonville Jaguars,JAX,DST,15,WAS,null,null,4800,8.8
+36,Tennessee Titans,TEN,DST,16,WAS,null,null,5500,8.8
+36,Houston Texans,HOU,DST,17,JAX,null,null,5000,8.8
+36,Cleveland Browns,CLE,DST,3,NYJ,null,null,3500,8.8
+41,Jacksonville Jaguars,JAX,DST,4,NYJ,null,null,5200,8.7
+41,Tennessee Titans,TEN,DST,5,BUF,null,null,3900,8.7
+41,Los Angeles Chargers,LAC,DST,12,ARI,null,null,4900,8.7
+41,New Orleans Saints,NO,DST,17,CAR,null,null,4500,8.7
+41,Philadelphia Eagles,PHI,DST,3,IND,null,null,4400,8.7
+46,Chicago Bears,CHI,DST,2,SEA,null,null,3500,8.6
+46,Chicago Bears,CHI,DST,11,MIN,null,null,4700,8.6
+46,Dallas Cowboys,DAL,DST,16,TB,null,null,3700,8.6
+46,Miami Dolphins,MIA,DST,16,JAX,null,null,4400,8.6
+46,Kansas City Chiefs,KC,DST,17,OAK,null,null,4400,8.6
+46,Arizona Cardinals,ARI,DST,8,SF,null,null,3400,8.6
+52,Detroit Lions,DET,DST,1,NYJ,null,null,4700,8.5
+52,New England Patriots,NE,DST,5,IND,null,null,4200,8.5
+52,Carolina Panthers,CAR,DST,5,NYG,null,null,4400,8.5
+52,Kansas City Chiefs,KC,DST,9,CLE,null,null,3900,8.5
+52,New England Patriots,NE,DST,16,BUF,null,null,4300,8.5
+52,Philadelphia Eagles,PHI,DST,17,WAS,null,null,4000,8.5
+52,Carolina Panthers,CAR,DST,13,TB,null,null,3800,8.5
+52,Dallas Cowboys,DAL,DST,3,SEA,null,null,3400,8.5
+60,Pittsburgh Steelers,PIT,DST,1,CLE,null,null,4200,8.4
+60,Denver Broncos,DEN,DST,2,OAK,null,null,4500,8.4
+60,Seattle Seahawks,SEA,DST,2,CHI,null,null,4100,8.4
+60,Los Angeles Chargers,LAC,DST,4,SF,null,null,4400,8.4
+60,Los Angeles Rams,LAR,DST,7,SF,null,null,5000,8.4
+60,Dallas Cowboys,DAL,DST,9,TEN,null,null,4200,8.4
+60,Baltimore Ravens,BAL,DST,12,OAK,null,null,5000,8.4
+60,Jacksonville Jaguars,JAX,DST,12,BUF,null,null,4800,8.4
+60,Los Angeles Rams,LAR,DST,15,PHI,null,null,3800,8.4
+60,Baltimore Ravens,BAL,DST,17,CLE,null,null,4700,8.4
+60,Houston Texans,HOU,DST,8,MIA,null,null,4800,8.4
+60,New England Patriots,NE,DST,8,BUF,null,null,4600,8.4
+60,Denver Broncos,DEN,DST,14,SF,null,null,4800,8.4
+73,New York Jets,NYJ,DST,5,DEN,null,null,4200,8.3
+73,Arizona Cardinals,ARI,DST,5,SF,null,null,4300,8.3
+73,Carolina Panthers,CAR,DST,9,TB,null,null,4300,8.3
+73,Buffalo Bills,BUF,DST,17,MIA,null,null,3700,8.3
+73,Chicago Bears,CHI,DST,17,MIN,null,null,4500,8.3
+73,Minnesota Vikings,MIN,DST,17,CHI,null,null,4100,8.3
+73,Houston Texans,HOU,DST,13,CLE,null,null,4400,8.3
+73,Los Angeles Chargers,LAC,DST,10,OAK,null,null,4700,8.3
+73,Philadelphia Eagles,PHI,DST,10,DAL,null,null,4500,8.3
+73,Buffalo Bills,BUF,DST,14,NYJ,null,null,4200,8.3
+83,Green Bay Packers,GB,DST,4,BUF,null,null,4300,8.2
+83,Baltimore Ravens,BAL,DST,5,CLE,null,null,4200,8.2
+83,Indianapolis Colts,IND,DST,7,BUF,null,null,4100,8.2
+83,Minnesota Vikings,MIN,DST,7,NYJ,null,null,4600,8.2
+83,Pittsburgh Steelers,PIT,DST,11,JAX,null,null,3800,8.2
+83,Minnesota Vikings,MIN,DST,16,DET,null,null,4600,8.2
+83,Pittsburgh Steelers,PIT,DST,17,CIN,null,null,4600,8.2
+83,Pittsburgh Steelers,PIT,DST,14,OAK,null,null,4700,8.2
+91,Tennessee Titans,TEN,DST,1,MIA,null,null,4200,8.1
+91,New England Patriots,NE,DST,1,HOU,null,null,4200,8.1
+91,Baltimore Ravens,BAL,DST,2,CIN,null,null,4800,8.1
+91,Philadelphia Eagles,PHI,DST,2,TB,null,null,4400,8.1
+91,Denver Broncos,DEN,DST,5,NYJ,null,null,4100,8.1
+91,Los Angeles Chargers,LAC,DST,7,TEN,null,null,4500,8.1
+91,Dallas Cowboys,DAL,DST,12,WAS,null,null,4800,8.1
+91,New England Patriots,NE,DST,12,NYJ,null,null,4100,8.1
+91,Atlanta Falcons,ATL,DST,15,ARI,null,null,4000,8.1
+91,Buffalo Bills,BUF,DST,15,DET,null,null,4200,8.1
+91,Seattle Seahawks,SEA,DST,15,SF,null,null,5000,8.1
+91,Denver Broncos,DEN,DST,16,OAK,null,null,4800,8.1
+91,Buffalo Bills,BUF,DST,13,MIA,null,null,4000,8.1
+91,Houston Texans,HOU,DST,3,NYG,null,null,4400,8.1
+91,Tennessee Titans,TEN,DST,14,JAX,null,null,4700,8.1
+91,Minnesota Vikings,MIN,DST,6,ARI,null,null,4600,8.1
+107,Washington Redskins,WAS,DST,1,ARI,null,null,4000,8
+107,Minnesota Vikings,MIN,DST,2,GB,null,null,4400,8
+107,Los Angeles Rams,LAR,DST,4,MIN,null,null,4700,8
+107,Seattle Seahawks,SEA,DST,4,ARI,null,null,4400,8
+107,Arizona Cardinals,ARI,DST,7,DEN,null,null,3900,8
+107,Baltimore Ravens,BAL,DST,11,CIN,null,null,4200,8
+107,Arizona Cardinals,ARI,DST,11,OAK,null,null,4000,8
+107,Indianapolis Colts,IND,DST,16,NYG,null,null,4500,8
+107,New England Patriots,NE,DST,17,NYJ,null,null,4100,8
+107,Philadelphia Eagles,PHI,DST,8,JAX,null,null,4700,8
+107,Baltimore Ravens,BAL,DST,8,CAR,null,null,3700,8
+107,Washington Redskins,WAS,DST,8,NYG,null,null,4100,8
+107,Los Angeles Chargers,LAC,DST,6,CLE,null,null,4300,8
+120,Green Bay Packers,GB,DST,1,CHI,null,null,4100,7.9
+120,New Orleans Saints,NO,DST,2,CLE,null,null,4000,7.9
+120,Houston Texans,HOU,DST,2,TEN,null,null,4500,7.9
+120,Dallas Cowboys,DAL,DST,5,HOU,null,null,3500,7.9
+120,Buffalo Bills,BUF,DST,12,JAX,null,null,4000,7.9
+120,Houston Texans,HOU,DST,12,TEN,null,null,4700,7.9
+120,Detroit Lions,DET,DST,15,BUF,null,null,4200,7.9
+120,New England Patriots,NE,DST,10,TEN,null,null,4200,7.9
+120,Baltimore Ravens,BAL,DST,3,DEN,null,null,4300,7.9
+120,Detroit Lions,DET,DST,14,ARI,null,null,4200,7.9
+120,Seattle Seahawks,SEA,DST,14,MIN,null,null,4200,7.9
+120,Jacksonville Jaguars,JAX,DST,6,DAL,null,null,4700,7.9
+132,Minnesota Vikings,MIN,DST,1,SF,null,null,4500,7.8
+132,Denver Broncos,DEN,DST,1,SEA,null,null,4600,7.8
+132,Los Angeles Rams,LAR,DST,1,OAK,null,null,5000,7.8
+132,Arizona Cardinals,ARI,DST,4,SEA,null,null,4000,7.8
+132,Cincinnati Bengals,CIN,DST,5,MIA,null,null,3900,7.8
+132,Denver Broncos,DEN,DST,15,CLE,null,null,4500,7.8
+132,Cleveland Browns,CLE,DST,16,CIN,null,null,4400,7.8
+132,Los Angeles Chargers,LAC,DST,17,DEN,null,null,4400,7.8
+132,Kansas City Chiefs,KC,DST,8,DEN,null,null,3900,7.8
+132,San Francisco 49ers,SF,DST,8,ARI,null,null,3900,7.8
+132,Jacksonville Jaguars,JAX,DST,14,TEN,null,null,4700,7.8
+132,Dallas Cowboys,DAL,DST,14,PHI,null,null,3700,7.8
+132,Philadelphia Eagles,PHI,DST,6,NYG,null,null,4300,7.8
+132,New York Jets,NYJ,DST,6,IND,null,null,4200,7.8
+132,Green Bay Packers,GB,DST,6,SF,null,null,4300,7.8
+147,Carolina Panthers,CAR,DST,1,DAL,null,null,4300,7.7
+147,Atlanta Falcons,ATL,DST,2,CAR,null,null,3400,7.7
+147,Dallas Cowboys,DAL,DST,4,DET,null,null,3700,7.7
+147,Philadelphia Eagles,PHI,DST,5,MIN,null,null,4200,7.7
+147,Philadelphia Eagles,PHI,DST,12,NYG,null,null,3800,7.7
+152,New York Jets,NYJ,DST,2,MIA,null,null,3700,7.6
+152,Denver Broncos,DEN,DST,7,ARI,null,null,4100,7.6
+152,Philadelphia Eagles,PHI,DST,7,CAR,null,null,4200,7.6
+152,New York Giants,NYG,DST,17,DAL,null,null,3300,7.6
+152,New York Jets,NYJ,DST,3,CLE,null,null,4000,7.6
+152,Carolina Panthers,CAR,DST,3,CIN,null,null,4100,7.6
+152,New England Patriots,NE,DST,3,DET,null,null,4200,7.6
+152,New England Patriots,NE,DST,14,MIA,null,null,4200,7.6
+152,New Orleans Saints,NO,DST,14,TB,null,null,3800,7.6
+152,Baltimore Ravens,BAL,DST,6,TEN,null,null,4000,7.6
+162,Cincinnati Bengals,CIN,DST,1,IND,null,null,4400,7.5
+162,Seattle Seahawks,SEA,DST,1,DEN,null,null,4100,7.5
+162,New England Patriots,NE,DST,4,MIA,null,null,4200,7.5
+162,Philadelphia Eagles,PHI,DST,4,TEN,null,null,4600,7.5
+162,San Francisco 49ers,SF,DST,5,ARI,null,null,3800,7.5
+162,Denver Broncos,DEN,DST,9,HOU,null,null,3400,7.5
+162,Washington Redskins,WAS,DST,15,JAX,null,null,4600,7.5
+162,Jacksonville Jaguars,JAX,DST,16,MIA,null,null,4800,7.5
+162,Denver Broncos,DEN,DST,13,CIN,null,null,4500,7.5
+162,Kansas City Chiefs,KC,DST,3,SF,null,null,3700,7.5
+162,New York Jets,NYJ,DST,14,BUF,null,null,4500,7.5
+162,Seattle Seahawks,SEA,DST,6,OAK,null,null,3500,7.5
+174,Washington Redskins,WAS,DST,2,IND,null,null,3700,7.4
+174,New Orleans Saints,NO,DST,4,NYG,null,null,3700,7.4
+174,Cincinnati Bengals,CIN,DST,8,TB,null,null,3700,7.4
+174,Los Angeles Rams,LAR,DST,13,DET,null,null,4100,7.4
+174,Chicago Bears,CHI,DST,14,LAR,null,null,3700,7.4
+174,Kansas City Chiefs,KC,DST,14,BAL,null,null,3700,7.4
+180,Arizona Cardinals,ARI,DST,1,WAS,null,null,4100,7.3
+180,Detroit Lions,DET,DST,2,SF,null,null,4100,7.3
+180,Dallas Cowboys,DAL,DST,2,NYG,null,null,3400,7.3
+180,Cleveland Browns,CLE,DST,4,OAK,null,null,3500,7.3
+180,Chicago Bears,CHI,DST,7,NE,null,null,3700,7.3
+180,New York Jets,NYJ,DST,9,MIA,null,null,3700,7.3
+180,Carolina Panthers,CAR,DST,11,DET,null,null,4000,7.3
+180,Washington Redskins,WAS,DST,11,HOU,null,null,3600,7.3
+180,Pittsburgh Steelers,PIT,DST,12,DEN,null,null,4100,7.3
+180,Atlanta Falcons,ATL,DST,16,CAR,null,null,3400,7.3
+180,New Orleans Saints,NO,DST,13,DAL,null,null,3500,7.3
+180,Atlanta Falcons,ATL,DST,10,CLE,null,null,3800,7.3
+180,San Francisco 49ers,SF,DST,10,NYG,null,null,4500,7.3
+180,Arizona Cardinals,ARI,DST,3,CHI,null,null,4000,7.3
+194,Los Angeles Chargers,LAC,DST,11,DEN,null,null,4600,7.2
+194,Indianapolis Colts,IND,DST,12,MIA,null,null,4400,7.2
+194,Los Angeles Rams,LAR,DST,10,SEA,null,null,3900,7.2
+194,Miami Dolphins,MIA,DST,3,OAK,null,null,3700,7.2
+194,Los Angeles Rams,LAR,DST,14,CHI,null,null,4100,7.2
+194,Dallas Cowboys,DAL,DST,6,JAX,null,null,4100,7.2
+200,Tennessee Titans,TEN,DST,2,HOU,null,null,4000,7.1
+200,Houston Texans,HOU,DST,7,JAX,null,null,4800,7.1
+200,Miami Dolphins,MIA,DST,9,NYJ,null,null,4200,7.1
+200,Carolina Panthers,CAR,DST,12,SEA,null,null,3800,7.1
+200,San Francisco 49ers,SF,DST,12,TB,null,null,3500,7.1
+200,Indianapolis Colts,IND,DST,15,DAL,null,null,3600,7.1
+200,New Orleans Saints,NO,DST,15,CAR,null,null,3500,7.1
+200,Philadelphia Eagles,PHI,DST,16,HOU,null,null,3200,7.1
+200,Miami Dolphins,MIA,DST,8,HOU,null,null,3500,7.1
+200,Detroit Lions,DET,DST,8,SEA,null,null,3700,7.1
+200,Atlanta Falcons,ATL,DST,6,TB,null,null,3100,7.1
+200,Buffalo Bills,BUF,DST,6,HOU,null,null,3400,7.1
+200,Miami Dolphins,MIA,DST,6,CHI,null,null,3500,7.1
+200,Los Angeles Rams,LAR,DST,6,DEN,null,null,4800,7.1
+214,Kansas City Chiefs,KC,DST,4,DEN,null,null,3900,7
+214,Buffalo Bills,BUF,DST,7,IND,null,null,3400,7
+214,Atlanta Falcons,ATL,DST,7,NYG,null,null,4000,7
+214,Oakland Raiders,OAK,DST,9,SF,null,null,3300,7
+214,Houston Texans,HOU,DST,9,DEN,null,null,4700,7
+214,Tennessee Titans,TEN,DST,12,HOU,null,null,3400,7
+214,Atlanta Falcons,ATL,DST,17,TB,null,null,3300,7
+214,Los Angeles Rams,LAR,DST,8,GB,null,null,4000,7
+214,Indianapolis Colts,IND,DST,13,JAX,null,null,4200,7
+214,Pittsburgh Steelers,PIT,DST,13,LAC,null,null,3600,7
+214,Green Bay Packers,GB,DST,10,MIA,null,null,3900,7
+214,Jacksonville Jaguars,JAX,DST,10,IND,null,null,4100,7
+214,Washington Redskins,WAS,DST,10,TB,null,null,3400,7
+227,Los Angeles Chargers,LAC,DST,1,KC,null,null,4300,6.9
+227,Kansas City Chiefs,KC,DST,5,JAX,null,null,4000,6.9
+227,Detroit Lions,DET,DST,7,MIA,null,null,3800,6.9
+227,Minnesota Vikings,MIN,DST,9,DET,null,null,4100,6.9
+227,Minnesota Vikings,MIN,DST,12,GB,null,null,3400,6.9
+227,Green Bay Packers,GB,DST,16,NYJ,null,null,4100,6.9
+227,New Orleans Saints,NO,DST,16,PIT,null,null,3500,6.9
+227,Indianapolis Colts,IND,DST,8,OAK,null,null,4400,6.9
+227,Cleveland Browns,CLE,DST,13,HOU,null,null,3200,6.9
+227,New England Patriots,NE,DST,13,MIN,null,null,3600,6.9
+227,Cleveland Browns,CLE,DST,14,CAR,null,null,3200,6.9
+227,New York Giants,NYG,DST,14,WAS,null,null,3500,6.9
+227,Arizona Cardinals,ARI,DST,14,DET,null,null,3700,6.9
+227,Pittsburgh Steelers,PIT,DST,6,CIN,null,null,3300,6.9
+227,Indianapolis Colts,IND,DST,6,NYJ,null,null,3500,6.9
+227,Carolina Panthers,CAR,DST,6,WAS,null,null,3900,6.9
+243,Chicago Bears,CHI,DST,1,GB,null,null,3600,6.8
+243,Indianapolis Colts,IND,DST,4,HOU,null,null,3600,6.8
+243,Baltimore Ravens,BAL,DST,4,PIT,null,null,3900,6.8
+243,New Orleans Saints,NO,DST,5,WAS,null,null,3700,6.8
+243,Cleveland Browns,CLE,DST,7,TB,null,null,3200,6.8
+243,Detroit Lions,DET,DST,9,MIN,null,null,3300,6.8
+243,Washington Redskins,WAS,DST,9,ATL,null,null,3400,6.8
+243,Green Bay Packers,GB,DST,15,CHI,null,null,3500,6.8
+243,New York Giants,NYG,DST,15,TEN,null,null,3500,6.8
+243,Jacksonville Jaguars,JAX,DST,13,IND,null,null,3700,6.8
+243,Indianapolis Colts,IND,DST,10,JAX,null,null,4000,6.8
+243,New York Giants,NYG,DST,3,HOU,null,null,3600,6.8
+243,Pittsburgh Steelers,PIT,DST,3,TB,null,null,3900,6.8
+243,Carolina Panthers,CAR,DST,14,CLE,null,null,4000,6.8
+243,Houston Texans,HOU,DST,14,IND,null,null,4300,6.8
+258,Miami Dolphins,MIA,DST,2,NYJ,null,null,3700,6.7
+258,Jacksonville Jaguars,JAX,DST,2,NE,null,null,4300,6.7
+258,Pittsburgh Steelers,PIT,DST,4,BAL,null,null,3900,6.7
+258,Green Bay Packers,GB,DST,5,DET,null,null,4000,6.7
+258,Minnesota Vikings,MIN,DST,5,PHI,null,null,4200,6.7
+258,New England Patriots,NE,DST,7,CHI,null,null,3500,6.7
+258,Tampa Bay Buccaneers,TB,DST,7,CLE,null,null,3900,6.7
+258,Seattle Seahawks,SEA,DST,11,GB,null,null,3100,6.7
+258,Atlanta Falcons,ATL,DST,11,DAL,null,null,3500,6.7
+258,Minnesota Vikings,MIN,DST,11,CHI,null,null,3800,6.7
+258,New Orleans Saints,NO,DST,11,PHI,null,null,3300,6.7
+258,Houston Texans,HOU,DST,11,WAS,null,null,4700,6.7
+258,Carolina Panthers,CAR,DST,16,ATL,null,null,3300,6.7
+258,Houston Texans,HOU,DST,16,PHI,null,null,4200,6.7
+258,Los Angeles Chargers,LAC,DST,16,BAL,null,null,4300,6.7
+258,Miami Dolphins,MIA,DST,17,BUF,null,null,4400,6.7
+258,Indianapolis Colts,IND,DST,17,TEN,null,null,4300,6.7
+258,New York Giants,NYG,DST,13,CHI,null,null,3300,6.7
+258,New York Giants,NYG,DST,10,SF,null,null,3600,6.7
+258,Los Angeles Rams,LAR,DST,3,LAC,null,null,4700,6.7
+258,Washington Redskins,WAS,DST,14,NYG,null,null,4300,6.7
+279,New England Patriots,NE,DST,2,JAX,null,null,4200,6.6
+279,Minnesota Vikings,MIN,DST,4,LAR,null,null,4200,6.6
+279,Houston Texans,HOU,DST,4,IND,null,null,4200,6.6
+279,Tennessee Titans,TEN,DST,4,PHI,null,null,3500,6.6
+279,Cleveland Browns,CLE,DST,5,BAL,null,null,3300,6.6
+279,Los Angeles Chargers,LAC,DST,5,OAK,null,null,4400,6.6
+279,Kansas City Chiefs,KC,DST,7,CIN,null,null,3300,6.6
+279,Washington Redskins,WAS,DST,7,DAL,null,null,3500,6.6
+279,Baltimore Ravens,BAL,DST,9,PIT,null,null,3500,6.6
+279,Seattle Seahawks,SEA,DST,9,LAC,null,null,4000,6.6
+279,New England Patriots,NE,DST,9,GB,null,null,3500,6.6
+279,Green Bay Packers,GB,DST,11,SEA,null,null,3700,6.6
+279,Washington Redskins,WAS,DST,12,DAL,null,null,3700,6.6
+279,Cleveland Browns,CLE,DST,12,CIN,null,null,3100,6.6
+279,Cincinnati Bengals,CIN,DST,12,CLE,null,null,3700,6.6
+279,Tennessee Titans,TEN,DST,15,NYG,null,null,4000,6.6
+279,Green Bay Packers,GB,DST,17,DET,null,null,4300,6.6
+279,Jacksonville Jaguars,JAX,DST,8,PHI,null,null,4100,6.6
+279,New Orleans Saints,NO,DST,8,MIN,null,null,3300,6.6
+279,Los Angeles Chargers,LAC,DST,13,PIT,null,null,3300,6.6
+279,Detroit Lions,DET,DST,10,CHI,null,null,3300,6.6
+279,New Orleans Saints,NO,DST,10,CIN,null,null,3200,6.6
+279,Buffalo Bills,BUF,DST,10,NYJ,null,null,3700,6.6
+279,Tampa Bay Buccaneers,TB,DST,3,PIT,null,null,3200,6.6
+279,Philadelphia Eagles,PHI,DST,14,DAL,null,null,3700,6.6
+279,Minnesota Vikings,MIN,DST,14,SEA,null,null,3500,6.6
+279,Cleveland Browns,CLE,DST,6,LAC,null,null,3200,6.6
+306,Pittsburgh Steelers,PIT,DST,2,KC,null,null,3900,6.5
+306,Arizona Cardinals,ARI,DST,2,LAR,null,null,3800,6.5
+306,Pittsburgh Steelers,PIT,DST,5,ATL,null,null,3400,6.5
+306,Houston Texans,HOU,DST,5,DAL,null,null,4200,6.5
+306,New York Jets,NYJ,DST,7,MIN,null,null,3700,6.5
+306,Carolina Panthers,CAR,DST,7,PHI,null,null,3700,6.5
+306,New York Giants,NYG,DST,11,TB,null,null,3700,6.5
+306,Oakland Raiders,OAK,DST,11,ARI,null,null,3400,6.5
+306,New Orleans Saints,NO,DST,12,ATL,null,null,3200,6.5
+306,Seattle Seahawks,SEA,DST,12,CAR,null,null,3200,6.5
+306,Tampa Bay Buccaneers,TB,DST,12,SF,null,null,3400,6.5
+306,New York Jets,NYJ,DST,15,HOU,null,null,3500,6.5
+306,Dallas Cowboys,DAL,DST,15,IND,null,null,3400,6.5
+306,Kansas City Chiefs,KC,DST,16,SEA,null,null,3300,6.5
+306,Cleveland Browns,CLE,DST,8,PIT,null,null,3100,6.5
+306,Atlanta Falcons,ATL,DST,13,BAL,null,null,3500,6.5
+306,Carolina Panthers,CAR,DST,10,PIT,null,null,3400,6.5
+306,Cincinnati Bengals,CIN,DST,3,CAR,null,null,4200,6.5
+306,Los Angeles Chargers,LAC,DST,3,LAR,null,null,4000,6.5
+306,Cincinnati Bengals,CIN,DST,6,PIT,null,null,3400,6.5
+306,Tennessee Titans,TEN,DST,6,BAL,null,null,3800,6.5
+327,Cincinnati Bengals,CIN,DST,2,BAL,null,null,4300,6.4
+327,Tampa Bay Buccaneers,TB,DST,4,CHI,null,null,3500,6.4
+327,Oakland Raiders,OAK,DST,4,CLE,null,null,4100,6.4
+327,Denver Broncos,DEN,DST,4,KC,null,null,3500,6.4
+327,Miami Dolphins,MIA,DST,7,DET,null,null,3500,6.4
+327,Buffalo Bills,BUF,DST,9,CHI,null,null,3000,6.4
+327,Tennessee Titans,TEN,DST,9,DAL,null,null,3400,6.4
+327,Detroit Lions,DET,DST,12,CHI,null,null,3400,6.4
+327,Denver Broncos,DEN,DST,12,PIT,null,null,3300,6.4
+327,Green Bay Packers,GB,DST,12,MIN,null,null,3400,6.4
+327,Jacksonville Jaguars,JAX,DST,17,HOU,null,null,3800,6.4
+327,Carolina Panthers,CAR,DST,8,BAL,null,null,4300,6.4
+327,New York Jets,NYJ,DST,8,CHI,null,null,3400,6.4
+327,Seattle Seahawks,SEA,DST,8,DET,null,null,4000,6.4
+327,Washington Redskins,WAS,DST,13,PHI,null,null,3400,6.4
+327,Dallas Cowboys,DAL,DST,10,PHI,null,null,3800,6.4
+327,Green Bay Packers,GB,DST,3,WAS,null,null,4100,6.4
+327,Washington Redskins,WAS,DST,6,CAR,null,null,3300,6.4
+345,Jacksonville Jaguars,JAX,DST,5,KC,null,null,4500,6.3
+345,Pittsburgh Steelers,PIT,DST,9,BAL,null,null,3800,6.3
+345,Indianapolis Colts,IND,DST,11,TEN,null,null,4000,6.3
+345,Kansas City Chiefs,KC,DST,15,LAC,null,null,3300,6.3
+345,Oakland Raiders,OAK,DST,15,CIN,null,null,3700,6.3
+345,Cincinnati Bengals,CIN,DST,15,OAK,null,null,3900,6.3
+345,New England Patriots,NE,DST,15,PIT,null,null,3200,6.3
+345,New York Jets,NYJ,DST,16,GB,null,null,3200,6.3
+345,San Francisco 49ers,SF,DST,16,CHI,null,null,3300,6.3
+345,Washington Redskins,WAS,DST,17,PHI,null,null,3400,6.3
+345,Oakland Raiders,OAK,DST,8,IND,null,null,3300,6.3
+345,Pittsburgh Steelers,PIT,DST,10,CAR,null,null,3400,6.3
+345,Washington Redskins,WAS,DST,3,GB,null,null,3300,6.3
+345,Green Bay Packers,GB,DST,14,ATL,null,null,3500,6.3
+345,Baltimore Ravens,BAL,DST,14,KC,null,null,3400,6.3
+345,Oakland Raiders,OAK,DST,6,SEA,null,null,3500,6.3
+361,Miami Dolphins,MIA,DST,1,TEN,null,null,3200,6.2
+361,Green Bay Packers,GB,DST,2,MIN,null,null,3900,6.2
+361,Oakland Raiders,OAK,DST,2,DEN,null,null,3600,6.2
+361,Detroit Lions,DET,DST,4,DAL,null,null,3500,6.2
+361,Buffalo Bills,BUF,DST,5,TEN,null,null,3500,6.2
+361,Miami Dolphins,MIA,DST,5,CIN,null,null,3400,6.2
+361,Detroit Lions,DET,DST,5,GB,null,null,3300,6.2
+361,Atlanta Falcons,ATL,DST,5,PIT,null,null,3100,6.2
+361,San Francisco 49ers,SF,DST,9,OAK,null,null,4500,6.2
+361,Jacksonville Jaguars,JAX,DST,11,PIT,null,null,3600,6.2
+361,Tampa Bay Buccaneers,TB,DST,15,BAL,null,null,3300,6.2
+361,Denver Broncos,DEN,DST,17,LAC,null,null,4100,6.2
+361,Cincinnati Bengals,CIN,DST,13,DEN,null,null,3600,6.2
+361,San Francisco 49ers,SF,DST,14,DEN,null,null,3700,6.2
+361,Arizona Cardinals,ARI,DST,6,MIN,null,null,3500,6.2
+376,Philadelphia Eagles,PHI,DST,1,ATL,null,null,4500,6.1
+376,Dallas Cowboys,DAL,DST,1,CAR,null,null,3500,6.1
+376,New York Jets,NYJ,DST,1,DET,null,null,3500,6.1
+376,Carolina Panthers,CAR,DST,2,ATL,null,null,4100,6.1
+376,Tampa Bay Buccaneers,TB,DST,2,PHI,null,null,3300,6.1
+376,Atlanta Falcons,ATL,DST,4,CIN,null,null,3400,6.1
+376,Buffalo Bills,BUF,DST,4,GB,null,null,3100,6.1
+376,New Orleans Saints,NO,DST,7,BAL,null,null,3600,6.1
+376,Baltimore Ravens,BAL,DST,7,NO,null,null,3400,6.1
+376,Dallas Cowboys,DAL,DST,7,WAS,null,null,4100,6.1
+376,Detroit Lions,DET,DST,11,CAR,null,null,3300,6.1
+376,Tampa Bay Buccaneers,TB,DST,11,NYG,null,null,3700,6.1
+376,Cleveland Browns,CLE,DST,15,DEN,null,null,4000,6.1
+376,Baltimore Ravens,BAL,DST,16,LAC,null,null,4500,6.1
+376,Baltimore Ravens,BAL,DST,13,ATL,null,null,4200,6.1
+376,New York Jets,NYJ,DST,13,TEN,null,null,3700,6.1
+376,Minnesota Vikings,MIN,DST,13,NE,null,null,3300,6.1
+376,Seattle Seahawks,SEA,DST,10,LAR,null,null,3100,6.1
+376,Denver Broncos,DEN,DST,3,BAL,null,null,4400,6.1
+376,Oakland Raiders,OAK,DST,3,MIA,null,null,3800,6.1
+376,Indianapolis Colts,IND,DST,3,PHI,null,null,3400,6.1
+376,New England Patriots,NE,DST,6,KC,null,null,3200,6.1
+398,Atlanta Falcons,ATL,DST,1,PHI,null,null,3300,6
+398,New York Jets,NYJ,DST,4,JAX,null,null,4000,6
+398,Los Angeles Chargers,LAC,DST,9,SEA,null,null,3600,6
+398,Tennessee Titans,TEN,DST,11,IND,null,null,3400,6
+398,Tampa Bay Buccaneers,TB,DST,17,ATL,null,null,3300,6
+398,Tampa Bay Buccaneers,TB,DST,8,CIN,null,null,3000,6
+398,Minnesota Vikings,MIN,DST,8,NO,null,null,4100,6
+398,Atlanta Falcons,ATL,DST,3,NO,null,null,3400,6
+398,Tennessee Titans,TEN,DST,3,JAX,null,null,4000,6
+407,Seattle Seahawks,SEA,DST,5,LAR,null,null,3600,5.9
+407,Kansas City Chiefs,KC,DST,11,LAR,null,null,3200,5.9
+407,Arizona Cardinals,ARI,DST,15,ATL,null,null,3300,5.9
+407,Miami Dolphins,MIA,DST,15,MIN,null,null,3400,5.9
+407,Detroit Lions,DET,DST,16,MIN,null,null,3800,5.9
+407,Washington Redskins,WAS,DST,16,TEN,null,null,4700,5.9
+407,Dallas Cowboys,DAL,DST,17,NYG,null,null,4100,5.9
+407,Tennessee Titans,TEN,DST,17,IND,null,null,4300,5.9
+407,Cleveland Browns,CLE,DST,10,ATL,null,null,3000,5.9
+407,Seattle Seahawks,SEA,DST,3,DAL,null,null,4400,5.9
+407,Indianapolis Colts,IND,DST,14,HOU,null,null,3600,5.9
+418,Kansas City Chiefs,KC,DST,1,LAC,null,null,3900,5.8
+418,New York Giants,NYG,DST,5,CAR,null,null,3500,5.8
+418,Tampa Bay Buccaneers,TB,DST,16,DAL,null,null,3500,5.8
+418,Oakland Raiders,OAK,DST,16,DEN,null,null,3500,5.8
+418,New York Giants,NYG,DST,8,WAS,null,null,3400,5.8
+423,Buffalo Bills,BUF,DST,1,BAL,null,null,4500,5.7
+423,New York Giants,NYG,DST,1,JAX,null,null,3900,5.7
+423,San Francisco 49ers,SF,DST,4,LAC,null,null,3300,5.7
+423,Cincinnati Bengals,CIN,DST,11,BAL,null,null,3300,5.7
+427,Buffalo Bills,BUF,DST,2,LAC,null,null,3500,5.6
+427,San Francisco 49ers,SF,DST,2,DET,null,null,3700,5.6
+427,Cincinnati Bengals,CIN,DST,4,ATL,null,null,3800,5.6
+427,New York Giants,NYG,DST,12,PHI,null,null,3300,5.6
+427,Miami Dolphins,MIA,DST,10,GB,null,null,3200,5.6
+427,New York Giants,NYG,DST,6,PHI,null,null,3400,5.6
+433,New Orleans Saints,NO,DST,9,LAR,null,null,3200,5.5
+433,Dallas Cowboys,DAL,DST,11,ATL,null,null,3400,5.5
+433,Cleveland Browns,CLE,DST,17,BAL,null,null,3600,5.5
+433,Green Bay Packers,GB,DST,8,LAR,null,null,3300,5.5
+433,Tampa Bay Buccaneers,TB,DST,10,WAS,null,null,3300,5.5
+433,Tennessee Titans,TEN,DST,10,NE,null,null,3000,5.5
+439,Miami Dolphins,MIA,DST,4,NE,null,null,3100,5.4
+439,Philadelphia Eagles,PHI,DST,15,LAR,null,null,3200,5.4
+439,Seattle Seahawks,SEA,DST,16,KC,null,null,3300,5.4
+442,Indianapolis Colts,IND,DST,5,NE,null,null,3200,5.3
+442,New York Jets,NYJ,DST,12,NE,null,null,3100,5.3
+442,New Orleans Saints,NO,DST,3,ATL,null,null,3700,5.3
+445,Oakland Raiders,OAK,DST,1,LAR,null,null,4100,5.2
+445,New York Giants,NYG,DST,2,DAL,null,null,3800,5.2
+445,New York Giants,NYG,DST,4,NO,null,null,3500,5.2
+445,Los Angeles Rams,LAR,DST,9,NO,null,null,3400,5.2
+445,Detroit Lions,DET,DST,13,LAR,null,null,3000,5.2
+445,Arizona Cardinals,ARI,DST,13,GB,null,null,2800,5.2
+445,Buffalo Bills,BUF,DST,3,MIN,null,null,3000,5.2
+452,San Francisco 49ers,SF,DST,1,MIN,null,null,3800,5.1
+452,Green Bay Packers,GB,DST,9,NE,null,null,3300,5.1
+452,Cincinnati Bengals,CIN,DST,16,CLE,null,null,3500,5.1
+455,Atlanta Falcons,ATL,DST,9,WAS,null,null,3600,5
+455,Los Angeles Rams,LAR,DST,11,KC,null,null,3300,5
+455,Pittsburgh Steelers,PIT,DST,15,NE,null,null,3400,5
+455,Carolina Panthers,CAR,DST,15,NO,null,null,3200,5
+455,Kansas City Chiefs,KC,DST,6,NE,null,null,3300,5
+460,Indianapolis Colts,IND,DST,1,CIN,null,null,3900,4.9
+460,Denver Broncos,DEN,DST,11,LAC,null,null,3300,4.9
+460,Los Angeles Chargers,LAC,DST,15,KC,null,null,3100,4.9
+460,Arizona Cardinals,ARI,DST,17,SEA,null,null,3100,4.9
+460,Tampa Bay Buccaneers,TB,DST,13,CAR,null,null,3200,4.9
+460,San Francisco 49ers,SF,DST,6,GB,null,null,3000,4.9
+466,Houston Texans,HOU,DST,1,NE,null,null,4000,4.8
+466,Washington Redskins,WAS,DST,5,NO,null,null,3000,4.8
+466,Tampa Bay Buccaneers,TB,DST,9,CAR,null,null,3000,4.8
+466,Buffalo Bills,BUF,DST,8,NE,null,null,3000,4.8
+466,Miami Dolphins,MIA,DST,14,NE,null,null,3200,4.8
+471,Tennessee Titans,TEN,DST,7,LAC,null,null,3400,4.7
+471,Arizona Cardinals,ARI,DST,16,LAR,null,null,2500,4.7
+471,Carolina Panthers,CAR,DST,17,NO,null,null,3000,4.7
+471,Denver Broncos,DEN,DST,8,KC,null,null,3200,4.7
+475,Cleveland Browns,CLE,DST,1,PIT,null,null,3000,4.6
+475,Indianapolis Colts,IND,DST,2,WAS,null,null,3800,4.6
+475,Cincinnati Bengals,CIN,DST,7,KC,null,null,3100,4.6
+475,Buffalo Bills,BUF,DST,16,NE,null,null,3000,4.6
+475,Detroit Lions,DET,DST,3,NE,null,null,3500,4.6
+480,Cleveland Browns,CLE,DST,9,KC,null,null,3000,4.5
+480,Miami Dolphins,MIA,DST,12,IND,null,null,3000,4.5
+480,San Francisco 49ers,SF,DST,15,SEA,null,null,3900,4.5
+480,New York Giants,NYG,DST,16,IND,null,null,3300,4.5
+480,Detroit Lions,DET,DST,17,GB,null,null,3300,4.5
+480,Tampa Bay Buccaneers,TB,DST,6,ATL,null,null,3400,4.5
+486,San Francisco 49ers,SF,DST,13,SEA,null,null,3400,4.4
+487,Kansas City Chiefs,KC,DST,2,PIT,null,null,3700,4.3
+487,New York Giants,NYG,DST,7,ATL,null,null,3000,4.3
+487,San Francisco 49ers,SF,DST,17,LAR,null,null,3000,4.3
+490,Tampa Bay Buccaneers,TB,DST,1,NO,null,null,3400,4.2
+490,Oakland Raiders,OAK,DST,5,LAC,null,null,3600,4.2
+490,San Francisco 49ers,SF,DST,7,LAR,null,null,3000,4.2
+490,Arizona Cardinals,ARI,DST,12,LAC,null,null,4000,4.2
+490,San Francisco 49ers,SF,DST,3,KC,null,null,3300,4.2
+490,Cincinnati Bengals,CIN,DST,14,LAC,null,null,3100,4.2
+490,Denver Broncos,DEN,DST,6,LAR,null,null,3200,4.2
+497,Arizona Cardinals,ARI,DST,10,KC,null,null,2500,4.1
+497,Atlanta Falcons,ATL,DST,14,GB,null,null,3100,4.1
+499,Philadelphia Eagles,PHI,DST,11,NO,null,null,3400,4
+499,Pittsburgh Steelers,PIT,DST,16,NO,null,null,3000,4
+499,Dallas Cowboys,DAL,DST,13,NO,null,null,3200,4
+499,Tampa Bay Buccaneers,TB,DST,14,NO,null,null,3000,4
+503,Oakland Raiders,OAK,DST,12,BAL,null,null,3400,3.9
+503,Cincinnati Bengals,CIN,DST,17,PIT,null,null,3000,3.9
+503,Oakland Raiders,OAK,DST,14,PIT,null,null,3000,3.9
+506,Cincinnati Bengals,CIN,DST,10,NO,null,null,3200,3.7
+507,Cleveland Browns,CLE,DST,2,NO,null,null,3000,3.6
+507,New York Jets,NYJ,DST,17,NE,null,null,3000,3.6
+509,Oakland Raiders,OAK,DST,17,KC,null,null,3000,3.3
+510,Atlanta Falcons,ATL,DST,12,NO,null,null,3000,3.2
+511,Oakland Raiders,OAK,DST,10,LAC,null,null,3000,3.1
+512,Oakland Raiders,OAK,DST,13,KC,null,null,2000,1.1

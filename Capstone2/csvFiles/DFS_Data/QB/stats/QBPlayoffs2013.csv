@@ -1,0 +1,26 @@
+Rank,Name,Team,Position,Week,Opponent,PassingCompletions,PassingAttempts,PassingCompletionPercentage,PassingYards,PassingYardsPerAttempt,PassingTouchdowns,PassingInterceptions,PassingRating,RushingAttempts,RushingYards,RushingYardsPerAttempt,RushingTouchdowns,FantasyPointsPerGameFanDuel,FantasyPointsFanDuel
+1,Andrew Luck,IND,QB,1,KC,29,45,64.4,443,9.8,4,3,98.66,7,45,6.4,1,41.2,41.22
+2,Alex Smith,KC,QB,1,IND,30,46,65.2,378,8.2,4,0,119.66,8,57,7.1,0,34.8,34.82
+3,Peyton Manning,DEN,QB,3,NE,32,43,74.4,400,9.3,2,0,118.36,1,-1,-1,0,23.9,23.9
+4,Colin Kaepernick,SF,QB,1,GB,16,30,53.3,227,7.6,1,1,75.28,7,98,14,0,21.9,21.88
+5,Tom Brady,NE,QB,3,DEN,24,38,63.2,277,7.3,1,0,93.86,2,7,3.5,1,21.8,21.78
+6,Colin Kaepernick,SF,QB,2,CAR,15,28,53.6,196,7,1,0,87.8,8,15,1.9,1,19.3,19.34
+7,Colin Kaepernick,SF,QB,3,SEA,14,24,58.3,153,6.4,1,2,56.42,11,130,11.8,0,19.1,19.12
+8,Russell Wilson,SEA,QB,4,DEN,18,25,72,206,8.2,2,0,123.08,3,26,8.7,0,18.8,18.84
+9,Cam Newton,CAR,QB,2,SF,16,25,64,267,10.7,1,2,79.92,10,54,5.4,0,18.1,18.08
+10,Andrew Luck,IND,QB,2,NE,20,41,48.8,331,8.1,2,4,53.05,1,5,5,0,17.7,17.74
+11,Philip Rivers,LAC,QB,2,DEN,18,27,66.7,217,8,2,0,115.82,3,10,3.3,0,17.7,17.68
+12,Drew Brees,NO,QB,2,SEA,24,43,55.8,304,7.1,1,0,85.8,0,0,0,0,16.2,16.16
+13,Nick Foles,PHI,QB,1,NO,23,33,69.7,195,5.9,2,0,104.99,1,3,3,0,16.1,16.1
+13,Peyton Manning,DEN,QB,2,LAC,25,36,69.4,230,6.4,2,1,93.52,1,-1,-1,0,16.1,16.1
+15,Andy Dalton,CIN,QB,1,LAC,29,51,56.9,334,6.5,1,2,66.95,5,26,5.2,0,16,15.96
+16,Drew Brees,NO,QB,1,PHI,20,30,66.7,250,8.3,1,2,75.69,5,13,2.6,0,13.3,13.3
+17,Peyton Manning,DEN,QB,4,SEA,34,49,69.4,280,5.7,1,2,73.51,1,0,0,0,13.2,13.2
+18,Aaron Rodgers,GB,QB,1,SF,17,26,65.4,177,6.8,1,0,97.76,2,11,5.5,0,12.2,12.18
+19,Russell Wilson,SEA,QB,3,SF,16,25,64,215,8.6,1,0,104.58,5,0,0,0,10.6,10.6
+20,Philip Rivers,LAC,QB,1,CIN,12,16,75,128,8,1,0,118.75,2,4,2,0,9.5,9.52
+21,Tom Brady,NE,QB,2,IND,13,25,52,198,7.9,0,0,78.42,1,-1,-1,0,7.8,7.82
+22,Russell Wilson,SEA,QB,2,NO,9,18,50,103,5.7,0,0,67.59,3,16,5.3,0,5.7,5.72
+23,Luke McCown,NO,QB,1,PHI,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Luke McCown,NO,QB,2,SEA,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,Tarvaris Jackson,SEA,QB,4,DEN,0,1,0,0,0,0,0,39.58,0,0,0,0,0,0
