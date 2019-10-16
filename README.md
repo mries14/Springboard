@@ -1,3 +1,3 @@
 # Springboard
 
-Capstone 2 for Springboard's Data Science Career Track. This project will be collecting NFL player and game data, and applying ML techniques to predict fantasy football scores. The aim is to build winning fantasy football lineups on FanDuel.
+This repository contains both capstone projects that were completed for Springboard's Data Science Career Track. The projects look into NFL data, and aim to predict outcomes of contests, as well as fantasy points for players
