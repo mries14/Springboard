@@ -9,3 +9,4 @@ This is the second capstone project for Springboard's Data Science Career Track.
 - dataScrapers: Contains the iPython notebooks created to scrape all data that was used within the project
 - QBAnalysis.ipynb: A jupyter notebook containing exploratory analysis of the QB data
 - QBmodel.ipynb: A jupyter notebook containing the modeling process and results of the QB data
+- variables.md: A table describing all modeling variables used within this project
