@@ -4,13 +4,58 @@ The following is a reference of the variables within this project used for explo
 
 | Variable | Description |
 | -------- | ----------- |
-| `book` | Book-wide information + configuration settings from `book.json`. See below for details. |
-| `gitbook` | GitBook specific information |
-| `page` | Current page specific information |
-| `file` | File associated with the current page specific information |
-| `readme` | Information about the Readme |
-| `glossary` | Information about the Glossary |
-| `summary` | Information about the table of contents |
-| `languages` | List of languages for multi-lingual books |
-| `output` | Information about the output generator |
-| `config` | Dump of the `book.json` |
+| `date` | The date on which the football game was played |
+| `Opponent` | The player's opponent within a game |
+| `gameId` | A key variable representing a played game |
+| `Name` | The name of a player |
+| `Team` | The team a player plays for |
+| `season` | The NFL season in which this instance occured |
+| `Week` | The NFL week in which this instance occured |
+| `homeAway` | Tells whether the player was the home team or away team |
+| `surface` | Tells whether the player was playing on a turf or grass field |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+| `roof` | Tells whether the player was playing in a dome or outdoors |
+
